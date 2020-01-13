@@ -1,0 +1,17 @@
+language: bash
+os:
+- linux
+services:
+- docker
+before_install:
+- echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+jobs:
+  include:
+  - name: Version 5.3.2
+    env: TAG="5.3.2"
+script:
+- bash scripts/create-image.sh "$TAG"
+env:
+  global:
+  - secure: N9UDk1V+S2vUYa6V1wXybry6oOlVzEEf8Ks8wCEMxETBesvZjsHu5d2SU+Sh33Ta5yGxP/0eEkZSKga/n/yKkwS55pe9wZOhX8TZGMhXlO+S2hjweZGUrZPQX3cx9ZL+giXkHaPadH6WNRjgjlH44uylGrVtWLjDwcjYKwa3NT3Z1xanzt0uffzj9oiFmRmHr9tfRRabiaBOeLDcDVWf6XhMZzo/g+qdirNR7R6EH7QtzbNwuOwh5PxCZzte/FokV/aaWFuEZxP6r6NRDrxHKsiYIlP2VaCCZuN8qGLnFpsb568GR3IeMCHE5Cf2oLrGsBTX6n64obGvzW2UvczEtOgAQdRd8HeZUO34Gsj64+lVIr/tnP8geElbBFivBXWZMNWIJg68rnTDKhNs1UVr24trVXkFcFIwQIkNQO0pf+yhROjowBmtsYD82yTnsPvRo5X6mVZeZb9fuoGCnwxREgvbMHYopxW/1xf/YxLYv7Gj3jTy2FpIUvdyYKp8EQV4zPXp9MZUm1aoXb/ARiTgM7W8nquTu/6hHUtho6BhvLSqT0IQCPrcnuVQo+2zGFAgl3ytzr0HhVxj0HvofpBvdrIngvDqdGTJkDQvEEaSmWV0f516ZNeRUbq59iuM5VaUfqEEOhmazYnRo5zr2x1H1L3fd5BiOyD668DWLzAdq6A=
+  - secure: loDExhZq94okk+pcXMJp7Z6tbBUsIh1zeTCUEmpi32MvAhfETTsgdFSI5qIf+wSURe2d8lV7QNfvg85pyy3sEfktcI1CMt/Oe5znkBr0yd9ju5co8eqXM+YDbiVFFOykVh9BVxtY0R2pAg0XMcqooHY3ww6J4kBDUKcvdQ78d8p3wBnmR+5E9G0DjL0YPM/VjB6taVeJ/oG2lw0Nf21RntFYRQtCUJwJmyrciNuJse/8SuFNd7RUYKY2fYcadjp1IYLO1aTg/pxf9RtazZJaixk41rUC+MCY2y89SEeEqdrvF3h5IfdIt6IRMc+owGh6ssVvoVEuHvJAB9rbLMZeK9b/hNsJ0CQJHvVssqiMK4pwd6mRM4zeRanrJoHekCsiulOYhAtxBKWFuqOrS6m386Tm/nWQcULdHyW9qbmAJr9XcM2Zb8nO32WXoaxReti5UV9Ap6/Mv/ycbPuepxtry7ilt5Qgvp6Hop3ZefmrVkFRNHI5BGdOGmn5xXMS1hcP+iHmJHVngevLIjFcep9uuhJmAeENhU9MBvQKClC396TY7r6uYZqovloYpk3t62gCyndxpF7vsULnShr+LXCs/zhmHJFPyhhC51zvGlNRViZHaSnwcjd5+Os+TsBE46n+dkBd/Z7PeYwETVpZ275qSUlKc8i+g4YYk8DA8mwZ9wg=
