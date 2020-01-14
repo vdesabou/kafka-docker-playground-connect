@@ -1,30 +1,26 @@
 language: bash
-os:
-- linux
-services:
-- docker
+os: 'linux'
+services: 'docker'
 before_install:
 - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
 jobs:
   include:
   - name: Version 5.3.x
     env: TAG="5.3.2 5.3.1 5.3.0"
+    script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.2.x
     env: TAG="5.2.3 5.2.2 5.2.1 5.2.0"
+    script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.1.x
     env: TAG="5.1.3 5.1.2 5.1.1 5.1.0"
+    script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.0.x
     env: TAG="5.0.3 5.0.2 5.0.1 5.0.0"
+    script: bash scripts/create-image.sh "$TAG"
 
-  - name: Version 4.1.x
-    env: TAG="4.1.3 4.1.2 4.1.1 4.1.0"
-
-
-script:
-- bash scripts/create-image.sh "$TAG"
 env:
   global:
   - secure: N9UDk1V+S2vUYa6V1wXybry6oOlVzEEf8Ks8wCEMxETBesvZjsHu5d2SU+Sh33Ta5yGxP/0eEkZSKga/n/yKkwS55pe9wZOhX8TZGMhXlO+S2hjweZGUrZPQX3cx9ZL+giXkHaPadH6WNRjgjlH44uylGrVtWLjDwcjYKwa3NT3Z1xanzt0uffzj9oiFmRmHr9tfRRabiaBOeLDcDVWf6XhMZzo/g+qdirNR7R6EH7QtzbNwuOwh5PxCZzte/FokV/aaWFuEZxP6r6NRDrxHKsiYIlP2VaCCZuN8qGLnFpsb568GR3IeMCHE5Cf2oLrGsBTX6n64obGvzW2UvczEtOgAQdRd8HeZUO34Gsj64+lVIr/tnP8geElbBFivBXWZMNWIJg68rnTDKhNs1UVr24trVXkFcFIwQIkNQO0pf+yhROjowBmtsYD82yTnsPvRo5X6mVZeZb9fuoGCnwxREgvbMHYopxW/1xf/YxLYv7Gj3jTy2FpIUvdyYKp8EQV4zPXp9MZUm1aoXb/ARiTgM7W8nquTu/6hHUtho6BhvLSqT0IQCPrcnuVQo+2zGFAgl3ytzr0HhVxj0HvofpBvdrIngvDqdGTJkDQvEEaSmWV0f516ZNeRUbq59iuM5VaUfqEEOhmazYnRo5zr2x1H1L3fd5BiOyD668DWLzAdq6A=
