@@ -13,7 +13,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kinesis:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3-source:1.1.1-preview
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sqs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-sink:latest
