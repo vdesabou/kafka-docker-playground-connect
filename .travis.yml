@@ -5,6 +5,11 @@ before_install:
 - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
 jobs:
   include:
+
+  - name: Version 5.4.x
+    env: TAG="5.4.0"
+    script: bash scripts/create-image.sh "$TAG"
+
   - name: Version 5.3.x (except 5.3.0)
     env: TAG="5.3.2 5.3.1"
     script: bash scripts/create-image.sh "$TAG"
