@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 for version in $@
 do
   export TAG=${version}
