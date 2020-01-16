@@ -1,18 +1,18 @@
 ARG TAG
 FROM confluentinc/cp-kafka-connect-base:${TAG}
 ARG TAG
-ARG ELASTICSEARCH_TAG
+ARG EXCEPTION_TAG
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-postgresql:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${ELASTICSEARCH_TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${EXCEPTION_TAG}
 RUN confluent-hub install --no-prompt wepay/kafka-connect-bigquery:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:${TAG}
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:${TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:${EXCEPTION_TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:${EXCEPTION_TAG}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kinesis:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:${TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:${EXCEPTION_TAG}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sqs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-source:latest
