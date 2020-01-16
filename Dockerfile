@@ -1,11 +1,12 @@
 ARG TAG
 FROM confluentinc/cp-kafka-connect-base:${TAG}
 ARG TAG
+ARG ELASTICSEARCH_TAG
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-postgresql:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${ELASTICSEARCH_TAG}
 RUN confluent-hub install --no-prompt wepay/kafka-connect-bigquery:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:${TAG}
