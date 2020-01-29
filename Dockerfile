@@ -65,3 +65,5 @@ RUN confluent-hub install --no-prompt jcustenborder/kafka-connect-redis:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-firebase:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kudu:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-vertica:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-maprdb:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-snmp:latest
