@@ -68,3 +68,4 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-vertica:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs2-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-maprdb:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-snmp:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-servicenow:latest
