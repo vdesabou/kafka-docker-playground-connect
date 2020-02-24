@@ -49,6 +49,7 @@ do
   if [ "$TAG" = "5.4.0-1-ubi8" ]
   then
     export EXCEPTION_TAG=5.4.0
+    export TAG=5.4.0
   fi
   retry docker build --build-arg TAG=$TAG --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
 
