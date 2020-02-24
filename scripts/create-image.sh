@@ -39,6 +39,7 @@ function retry() {
 for version in $@
 do
   export TAG=${version}
+  ORIGINAL_TAG=$TAG
 
   export EXCEPTION_TAG=$TAG
   if [ "$TAG" = "5.0.2" ] || [ "$TAG" = "5.0.3" ]
@@ -51,7 +52,7 @@ do
     export EXCEPTION_TAG=5.4.0
     export TAG=5.4.0
   fi
-  retry docker build --build-arg TAG=$TAG --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
+  retry docker build --build-arg TAG=$TAG --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$ORIGINAL_TAG .
 
-  docker push vdesabou/kafka-docker-playground-connect:$TAG
+  docker push vdesabou/kafka-docker-playground-connect:$ORIGINAL_TAG
 done
