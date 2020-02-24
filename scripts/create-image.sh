@@ -46,6 +46,10 @@ do
     # 5.0.2 and 5.0.3 are not available on the hub
     export EXCEPTION_TAG=5.0.1
   fi
+  if [ "$TAG" = "5.4.0-1-ubi8" ]
+  then
+    export EXCEPTION_TAG=5.4.0
+  fi
   retry docker build --build-arg TAG=$TAG --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
