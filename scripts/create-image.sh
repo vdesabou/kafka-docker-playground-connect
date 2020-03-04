@@ -39,20 +39,16 @@ function retry() {
 for version in $@
 do
   export TAG=${version}
-  ORIGINAL_TAG=$TAG
+  # to handle ubi8 images
+  export TAG_BASE=$(echo $TAG | cut -d "-" -f1)
 
-  export EXCEPTION_TAG=$TAG
-  if [ "$TAG" = "5.0.2" ] || [ "$TAG" = "5.0.3" ]
+  export EXCEPTION_TAG=$TAG_BASE
+  if [ "$TAG_BASE" = "5.0.2" ] || [ "$TAG_BASE" = "5.0.3" ]
   then
     # 5.0.2 and 5.0.3 are not available on the hub
     export EXCEPTION_TAG=5.0.1
   fi
-  if [ "$TAG" = "5.4.0-1-ubi8" ]
-  then
-    export EXCEPTION_TAG=5.4.0
-    export TAG=5.4.0
-  fi
-  retry docker build --build-arg TAG=$TAG --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$ORIGINAL_TAG .
+  retry docker build --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
 
-  docker push vdesabou/kafka-docker-playground-connect:$ORIGINAL_TAG
+  docker push vdesabou/kafka-docker-playground-connect:$TAG
 done
