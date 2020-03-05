@@ -3,6 +3,7 @@ FROM confluentinc/cp-kafka-connect-base:${TAG}
 ARG TAG
 ARG TAG_BASE
 ARG EXCEPTION_TAG
+USER root
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG_BASE}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
