@@ -4,6 +4,7 @@ ARG TAG
 ARG TAG_BASE
 ARG EXCEPTION_TAG
 USER root
+COPY kafka-connect-couchbase-3.4.5 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG_BASE}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
@@ -56,10 +57,6 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-data-lake
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-event-hubs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-functions:latest
 RUN confluent-hub install --no-prompt neo4j/kafka-connect-neo4j:latest
-RUN wget https://packages.couchbase.com/clients/kafka/3.4.5/kafka-connect-couchbase-3.4.5.zip \
-  && apt-get update && apt-get install unzip \
-  && unzip kafka-connect-couchbase-3.4.5.zip \
-  && mv kafka-connect-couchbase-3.4.5 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/connect-transforms:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sftp:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hbase:latest

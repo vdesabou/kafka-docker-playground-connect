@@ -36,6 +36,10 @@ function retry() {
   done
 }
 
+# specific to couchbase connector
+wget https://packages.couchbase.com/clients/kafka/3.4.5/kafka-connect-couchbase-3.4.5.zip
+unzip kafka-connect-couchbase-3.4.5.zip
+
 for version in $@
 do
   export TAG=${version}
@@ -52,3 +56,5 @@ do
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done
+
+rm -rf kafka-connect-couchbase-3.4.5 kafka-connect-couchbase-3.4.5.zip
