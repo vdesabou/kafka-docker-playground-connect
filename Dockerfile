@@ -52,10 +52,14 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-dataproc-si
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jms-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-blob-storage:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-blob-storage-source:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-search:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-service-bus:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-data-lake-gen1-storage:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-data-lake-gen2-storage:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-event-hubs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-functions:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-sql-dw:latest
 RUN confluent-hub install --no-prompt neo4j/kafka-connect-neo4j:latest
 RUN confluent-hub install --no-prompt confluentinc/connect-transforms:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sftp:latest
