@@ -7,7 +7,7 @@ jobs:
   include:
 
   - name: Version 5.4.x
-    env: TAG="5.4.0 5.4.0-1-ubi8 5.4.1"
+    env: TAG="5.4.0 5.4.1-1-ubi8 5.4.1"
     script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.3.x (except 5.3.0)
