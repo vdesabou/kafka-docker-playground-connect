@@ -1,5 +1,6 @@
 ARG TAG
-FROM confluentinc/cp-kafka-connect-base:${TAG}
+ARG CP_CONNECT_IMAGE
+FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
 ARG TAG
 ARG TAG_BASE
 ARG EXCEPTION_TAG

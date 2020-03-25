@@ -36,6 +36,9 @@ function retry() {
   done
 }
 
+# https://stackoverflow.com/a/24067243
+function version_gt() { test "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$1"; }
+
 # specific to couchbase connector
 wget https://packages.couchbase.com/clients/kafka/3.4.5/kafka-connect-couchbase-3.4.5.zip
 unzip kafka-connect-couchbase-3.4.5.zip
@@ -52,7 +55,16 @@ do
     # 5.0.2 and 5.0.3 are not available on the hub
     export EXCEPTION_TAG=5.0.1
   fi
-  retry docker build --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
+
+  first_version=${TAG_BASE}
+  second_version=5.3.0
+  if version_gt $first_version $second_version; then
+      export CP_CONNECT_IMAGE=cp-server-connect-base
+  else
+      export CP_CONNECT_IMAGE=cp-kafka-connect-base
+  fi
+
+  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done
