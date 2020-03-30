@@ -79,4 +79,4 @@ RUN confluent-hub install --no-prompt snowflakeinc/snowflake-kafka-connector:lat
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-prometheus-metrics:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-appdynamics-metrics:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-datadog-metrics:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pagerduty-sink:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pagerduty:latest
