@@ -76,3 +76,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-snmp:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-servicenow:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-data-diode:latest
 RUN confluent-hub install --no-prompt snowflakeinc/snowflake-kafka-connector:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-prometheus-metrics:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-appdynamics-metrics:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-datadog-metrics:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pagerduty-sink:latest
