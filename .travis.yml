@@ -6,6 +6,10 @@ before_install:
 jobs:
   include:
 
+  - name: Version 5.5.x
+    env: TAG="5.5.0 5.5.0-1-ubi8"
+    script: bash scripts/create-image.sh "$TAG"
+
   - name: Version 5.4.x
     env: TAG="5.4.0 5.4.1-1-ubi8 5.4.1-2-ubi8 5.4.1"
     script: bash scripts/create-image.sh "$TAG"
