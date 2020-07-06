@@ -5,7 +5,7 @@ ARG TAG
 ARG TAG_BASE
 ARG EXCEPTION_TAG
 USER root
-COPY kafka-connect-couchbase-3.4.5 /usr/share/confluent-hub-components/kafka-connect-couchbase
+COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG_BASE}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest

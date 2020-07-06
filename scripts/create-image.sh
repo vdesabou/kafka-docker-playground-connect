@@ -40,8 +40,8 @@ function retry() {
 function version_gt() { test "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$1"; }
 
 # specific to couchbase connector
-wget https://packages.couchbase.com/clients/kafka/3.4.5/kafka-connect-couchbase-3.4.5.zip
-unzip kafka-connect-couchbase-3.4.5.zip
+wget https://packages.couchbase.com/clients/kafka/3.4.8/kafka-connect-couchbase-3.4.8.zip
+unzip kafka-connect-couchbase-3.4.8.zip
 
 for version in $@
 do
@@ -69,4 +69,4 @@ do
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done
 
-rm -rf kafka-connect-couchbase-3.4.5 kafka-connect-couchbase-3.4.5.zip
+rm -rf kafka-connect-couchbase-3.4.8 kafka-connect-couchbase-3.4.8.zip
