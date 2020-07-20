@@ -80,3 +80,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-prometheus-metr
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-appdynamics-metrics:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-datadog-metrics:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pagerduty:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ftps:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jira:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-rabbitmq-sink:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-amps:latest
