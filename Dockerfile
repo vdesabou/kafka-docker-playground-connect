@@ -84,3 +84,4 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ftps:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jira:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-rabbitmq-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-amps:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-salesforce:latest
