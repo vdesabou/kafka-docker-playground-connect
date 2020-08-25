@@ -65,7 +65,7 @@ RUN confluent-hub install --no-prompt neo4j/kafka-connect-neo4j:latest
 RUN confluent-hub install --no-prompt confluentinc/connect-transforms:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sftp:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hbase:latest
-RUN confluent-hub install --no-prompt mongodb/kafka-connect-mongodb:0.2
+RUN confluent-hub install --no-prompt mongodb/kafka-connect-mongodb:1.2.0
 RUN confluent-hub install --no-prompt jcustenborder/kafka-connect-redis:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-firebase:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kudu:latest
