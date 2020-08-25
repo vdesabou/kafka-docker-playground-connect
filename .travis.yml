@@ -3,6 +3,9 @@ os: 'linux'
 services: 'docker'
 before_install:
 - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+after_success:
+- bash scripts/get-versions.sh "5.5.1"
+
 jobs:
   include:
 
