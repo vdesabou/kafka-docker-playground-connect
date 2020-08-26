@@ -17,6 +17,6 @@ done
 
 cp $template_file $readme_file
 
-git add $readme_file
+git remote add $readme_file https://${GH_TOKEN}@github.com/vdesabou/kafka-docker-playground-connect.git > /dev/null 2>&1
 git commit --message "Updating with latest version (travis build $TRAVIS_BUILD_NUMBER)"
 git push origin master
