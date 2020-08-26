@@ -3,8 +3,6 @@ os: 'linux'
 services: 'docker'
 before_install:
 - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-after_success:
-- bash scripts/get-versions.sh "5.5.1"
 
 jobs:
   include:
@@ -32,6 +30,10 @@ jobs:
   - name: Version 5.0.x
     env: TAG="5.0.3 5.0.2 5.0.1 5.0.0"
     script: bash scripts/create-image.sh "$TAG"
+
+  - name: Update README
+    env: TAG="5.5.1"
+    script: bash scripts/get-versions.sh "$TAG"
 
 env:
   global:
