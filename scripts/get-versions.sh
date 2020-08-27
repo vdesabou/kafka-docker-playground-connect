@@ -19,7 +19,15 @@ done
 
 cp $readme_tmp_file $readme_file
 
-set +ex
+set +e
+
+if [ ! -z "$TRAVIS" ]
+then
+     # running with travis
+    git config --global user.email "travis@travis-ci.org"
+    git config --global user.name "Travis CI"
+fi
+
 git add $readme_file
 git commit --message "Updating with latest version (travis build $TRAVIS_BUILD_NUMBER)"
-git push https://${GH_TOKEN}@github.com/vdesabou/kafka-docker-playground-connect.git master
+git push https://$GH_TOKEN@github.com/vdesabou/kafka-docker-playground-connect.git master > /dev/null 2>&1
