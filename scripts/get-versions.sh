@@ -19,7 +19,6 @@ done
 
 cp $readme_tmp_file $readme_file
 
-set +e
 set -x
 if [ ! -z "$TRAVIS" ]
 then
@@ -30,4 +29,4 @@ fi
 
 git add $readme_file
 git commit --message "Updating with latest version (travis build $TRAVIS_BUILD_NUMBER)"
-git push https://$GH_TOKEN@github.com/vdesabou/kafka-docker-playground-connect.git master
+git push -v https://$GH_TOKEN@github.com/vdesabou/kafka-docker-playground-connect.git master
