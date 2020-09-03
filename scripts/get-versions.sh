@@ -24,8 +24,8 @@ set -x
 if [ ! -z "$TRAVIS" ]
 then
      # running with travis
-    git config --global user.email "travis@travis-ci.org"
-    git config --global user.name "Travis CI"
+    git config --global user.email "GH_EMAIL"
+    git config --global user.name "GH_USERNAME"
 fi
 
 git add $readme_file
