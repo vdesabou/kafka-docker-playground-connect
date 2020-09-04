@@ -87,3 +87,4 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-amps:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-salesforce:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-salesforce-bulk-api:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-github:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pivotal-gemfire:latest
