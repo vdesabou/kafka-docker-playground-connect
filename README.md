@@ -49,12 +49,13 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-jira  | 1.0.0-preview |
 | confluentinc-kafka-connect-jms  | 5.5.1 |
 | confluentinc-kafka-connect-jms-sink  | 1.2.0 |
-| confluentinc-kafka-connect-kinesis  | 1.3.0 |
+| confluentinc-kafka-connect-kinesis  | 1.1.10 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
 | confluentinc-kafka-connect-maprdb  | 1.1.1 |
 | confluentinc-kafka-connect-mqtt  | 1.3.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.1 |
+| confluentinc-kafka-connect-pivotal-gemfire  | 1.0.1 |
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.2-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.3.0 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.3.0-preview |
@@ -64,7 +65,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-salesforce  | 1.6.5 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.6.5 |
 | confluentinc-kafka-connect-servicenow  | 2.0.1 |
-| confluentinc-kafka-connect-sftp  | 2.1.1 |
+| confluentinc-kafka-connect-sftp  | 2.1.0 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.2.0 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
