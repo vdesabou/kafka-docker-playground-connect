@@ -8,7 +8,7 @@ jobs:
   include:
 
   - name: Version 5.5.1
-    env: TAG="5.5.1
+    env: TAG="5.5.1"
     script: bash scripts/create-image.sh "$TAG" && bash scripts/launch-github-action.sh
 
   - name: Version 5.5.x
