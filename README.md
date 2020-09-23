@@ -70,7 +70,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-solace-sink  | 1.3.0 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
 | confluentinc-kafka-connect-splunk-source  | 1.0.2 |
-| confluentinc-kafka-connect-sqs  | 1.0.5 |
+| confluentinc-kafka-connect-sqs  | 1.0.6 |
 | confluentinc-kafka-connect-syslog  | 1.3.1 |
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
