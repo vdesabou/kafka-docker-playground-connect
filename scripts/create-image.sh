@@ -49,13 +49,6 @@ do
   # to handle ubi8 images
   export TAG_BASE=$(echo $TAG | cut -d "-" -f1)
 
-  export EXCEPTION_TAG=$TAG_BASE
-  if [ "$TAG_BASE" = "5.0.2" ] || [ "$TAG_BASE" = "5.0.3" ]
-  then
-    # 5.0.2 and 5.0.3 are not available on the hub
-    export EXCEPTION_TAG=5.0.1
-  fi
-
   first_version=${TAG_BASE}
   second_version=5.3.0
   if version_gt $first_version $second_version; then
@@ -64,7 +57,7 @@ do
       export CP_CONNECT_IMAGE=cp-kafka-connect-base
   fi
 
-  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg EXCEPTION_TAG=$EXCEPTION_TAG -t vdesabou/kafka-docker-playground-connect:$TAG .
+  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE -t vdesabou/kafka-docker-playground-connect:$TAG .
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done

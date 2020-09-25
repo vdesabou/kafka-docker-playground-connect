@@ -1,36 +1,33 @@
 ARG TAG
 ARG CP_CONNECT_IMAGE
 FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
-ARG TAG
-ARG TAG_BASE
-ARG EXCEPTION_TAG
 USER root
 COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:${TAG_BASE}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-postgresql:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:${EXCEPTION_TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:latest
 RUN confluent-hub install --no-prompt wepay/kafka-connect-bigquery:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:${EXCEPTION_TAG}
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:${EXCEPTION_TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kinesis:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:${EXCEPTION_TAG}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-sqs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-sink:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mongodb:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-activemq:${TAG_BASE}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-activemq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-tibco-source:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-replicator:${TAG_BASE}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-replicator:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-syslog:latest
 RUN confluent-hub install --no-prompt splunk/kafka-connect-splunk:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-tibco-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-mqtt:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jms:${TAG_BASE}
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jms:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-influxdb:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-cassandra:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-functions:latest
