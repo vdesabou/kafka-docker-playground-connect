@@ -75,13 +75,14 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.2 |
+| confluentinc-kafka-connect-zendesk  | 1.0.1 |
 | debezium-debezium-connector-mongodb  | 1.2.2 |
 | debezium-debezium-connector-mysql  | 1.2.2 |
 | debezium-debezium-connector-postgresql  | 1.2.2 |
 | debezium-debezium-connector-sqlserver  | 1.2.2 |
 | jcustenborder-kafka-connect-redis  | 0.0.2.11 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.46 |
-| kafka-connect-couchbase  |  |
+| kafka-connect-couchbase  | 3.4.8 |
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.4.3 |
