@@ -26,7 +26,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-cassandra  | 1.2.2 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
 | confluentinc-kafka-connect-datadog-metrics  | 1.1.2 |
-| confluentinc-kafka-connect-elasticsearch  | 5.5.1 |
+| confluentinc-kafka-connect-elasticsearch  | 10.0.0 |
 | confluentinc-kafka-connect-firebase  | 1.1.1 |
 | confluentinc-kafka-connect-ftps  | 1.0.2-preview |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.0.2 |
@@ -59,7 +59,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.2-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.3.1 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.3.1-preview |
-| confluentinc-kafka-connect-replicator  | 5.5.1 |
+| confluentinc-kafka-connect-replicator  | 6.0.0 |
 | confluentinc-kafka-connect-s3  | 5.5.1 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
 | confluentinc-kafka-connect-salesforce  | 1.7.0 |
