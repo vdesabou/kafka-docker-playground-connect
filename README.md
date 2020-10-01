@@ -5,7 +5,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | connector  | version |
 |---|---|
 | confluentinc-connect-transforms  | 1.3.2 |
-| confluentinc-kafka-connect-activemq  | 5.5.1 |
+| confluentinc-kafka-connect-activemq  | 5.5.2 |
 | confluentinc-kafka-connect-activemq-sink  | 1.1.6 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.2 |
@@ -37,17 +37,17 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs-source  | 1.3.2 |
 | confluentinc-kafka-connect-github  | 1.0.1 |
 | confluentinc-kafka-connect-hbase  | 1.0.5 |
-| confluentinc-kafka-connect-hdfs  | 5.5.1 |
+| confluentinc-kafka-connect-hdfs  | 5.5.2 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.3.2 |
 | confluentinc-kafka-connect-hdfs3  | 1.0.5 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.3.2 |
 | confluentinc-kafka-connect-http  | 1.0.16 |
-| confluentinc-kafka-connect-ibmmq  | 5.5.1 |
+| confluentinc-kafka-connect-ibmmq  | 5.5.2 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.0 |
-| confluentinc-kafka-connect-influxdb  | 1.2.0 |
-| confluentinc-kafka-connect-jdbc  | 5.5.1 |
+| confluentinc-kafka-connect-influxdb  | 1.2.1 |
+| confluentinc-kafka-connect-jdbc  | 5.5.2 |
 | confluentinc-kafka-connect-jira  | 1.0.0-preview |
-| confluentinc-kafka-connect-jms  | 5.5.1 |
+| confluentinc-kafka-connect-jms  | 5.5.2 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.0 |
 | confluentinc-kafka-connect-kinesis  | 1.3.0 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
@@ -60,7 +60,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-rabbitmq  | 1.3.1 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.3.1-preview |
 | confluentinc-kafka-connect-replicator  | 6.0.0 |
-| confluentinc-kafka-connect-s3  | 5.5.1 |
+| confluentinc-kafka-connect-s3  | 5.5.2 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
 | confluentinc-kafka-connect-salesforce  | 1.7.0 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.0 |
