@@ -1,6 +1,8 @@
 ARG TAG
 ARG CP_CONNECT_IMAGE
 FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
+ARG TAG
+ARG TAG_BASE
 USER root
 COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
@@ -21,7 +23,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-solace-sink:lat
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mongodb:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-activemq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-tibco-source:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-replicator:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-replicator:${TAG_BASE}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-syslog:latest
 RUN confluent-hub install --no-prompt splunk/kafka-connect-splunk:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-tibco-sink:latest
