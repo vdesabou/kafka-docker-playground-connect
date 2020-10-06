@@ -85,6 +85,6 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | kafka-connect-couchbase  | 3.4.8 |
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
-| snowflakeinc-snowflake-kafka-connector  | 1.4.3 |
+| snowflakeinc-snowflake-kafka-connector  | 1.5.0 |
 | splunk-kafka-connect-splunk  | 2.0 |
 | wepay-kafka-connect-bigquery  | 1.6.1 |
