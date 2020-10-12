@@ -88,3 +88,4 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-salesforce-bulk
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-github:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pivotal-gemfire:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-zendesk:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-bigtable:latest
