@@ -20,7 +20,11 @@ jobs:
     script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.4.x
-    env: TAG="5.4.0 5.4.1-1-ubi8 5.4.1-2-ubi8 5.4.1 5.4.1-2-ubi8 5.4.2-1-ubi8 5.4.2 5.4.3-1-ubi8 5.4.3"
+    env: TAG="5.4.0 5.4.1-1-ubi8 5.4.1-2-ubi8 5.4.1 5.4.1-2-ubi8
+    script: bash scripts/create-image.sh "$TAG"
+
+  - name: Version 5.4.x
+    env: TAG="5.4.2-1-ubi8 5.4.2 5.4.3-1-ubi8 5.4.3"
     script: bash scripts/create-image.sh "$TAG"
 
   - name: Version 5.3.x (except 5.3.0)
