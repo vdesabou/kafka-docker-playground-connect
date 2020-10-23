@@ -19,14 +19,14 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.5.0 |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.5.0 |
 | confluentinc-kafka-connect-azure-event-hubs  | 1.0.3 |
-| confluentinc-kafka-connect-azure-functions  | 1.0.7 |
+| confluentinc-kafka-connect-azure-functions  | 1.0.8 |
 | confluentinc-kafka-connect-azure-search  | 1.0.3 |
 | confluentinc-kafka-connect-azure-service-bus  | 1.1.0 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
 | confluentinc-kafka-connect-cassandra  | 1.2.2 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
 | confluentinc-kafka-connect-datadog-metrics  | 1.1.2 |
-| confluentinc-kafka-connect-elasticsearch  | 10.0.1 |
+| confluentinc-kafka-connect-elasticsearch  | 10.0.2 |
 | confluentinc-kafka-connect-firebase  | 1.1.1 |
 | confluentinc-kafka-connect-ftps  | 1.0.3-preview |
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.5 |
