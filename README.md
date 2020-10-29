@@ -21,7 +21,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-event-hubs  | 1.0.3 |
 | confluentinc-kafka-connect-azure-functions  | 1.0.8 |
 | confluentinc-kafka-connect-azure-search  | 1.0.3 |
-| confluentinc-kafka-connect-azure-service-bus  | 1.1.0 |
+| confluentinc-kafka-connect-azure-service-bus  | 1.1.1 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
 | confluentinc-kafka-connect-cassandra  | 1.2.2 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
@@ -32,7 +32,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.5 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.0.2 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.1 |
-| confluentinc-kafka-connect-gcp-pubsub  | 1.0.3 |
+| confluentinc-kafka-connect-gcp-pubsub  | 1.0.4 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.2 |
 | confluentinc-kafka-connect-gcs  | 5.5.3 |
 | confluentinc-kafka-connect-gcs-source  | 1.3.2 |
@@ -53,7 +53,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-kinesis  | 1.3.0 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
 | confluentinc-kafka-connect-maprdb  | 1.1.1 |
-| confluentinc-kafka-connect-mqtt  | 1.3.0 |
+| confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.1 |
 | confluentinc-kafka-connect-pivotal-gemfire  | 1.0.1 |
