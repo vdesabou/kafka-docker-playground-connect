@@ -18,7 +18,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.3.2 |
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.5.0 |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.5.0 |
-| confluentinc-kafka-connect-azure-event-hubs  | 1.0.3 |
+| confluentinc-kafka-connect-azure-event-hubs  | 1.1.0 |
 | confluentinc-kafka-connect-azure-functions  | 1.0.8 |
 | confluentinc-kafka-connect-azure-search  | 1.0.3 |
 | confluentinc-kafka-connect-azure-service-bus  | 1.1.1 |
@@ -32,7 +32,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.5 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.0.2 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.1 |
-| confluentinc-kafka-connect-gcp-pubsub  | 1.0.4 |
+| confluentinc-kafka-connect-gcp-pubsub  | 1.0.5 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.2 |
 | confluentinc-kafka-connect-gcs  | 5.5.3 |
 | confluentinc-kafka-connect-gcs-source  | 1.3.2 |
@@ -71,7 +71,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-solace-sink  | 1.3.0 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
 | confluentinc-kafka-connect-splunk-source  | 1.0.2 |
-| confluentinc-kafka-connect-sqs  | 1.0.6 |
+| confluentinc-kafka-connect-sqs  | 1.1.0 |
 | confluentinc-kafka-connect-syslog  | 1.3.1 |
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
