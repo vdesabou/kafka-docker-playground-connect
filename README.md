@@ -21,7 +21,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-event-hubs  | 1.1.0 |
 | confluentinc-kafka-connect-azure-functions  | 1.0.8 |
 | confluentinc-kafka-connect-azure-search  | 1.0.3 |
-| confluentinc-kafka-connect-azure-service-bus  | 1.1.1 |
+| confluentinc-kafka-connect-azure-service-bus  | 1.1.2 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
 | confluentinc-kafka-connect-cassandra  | 1.2.2 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
@@ -50,7 +50,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-jira  | 1.0.0-preview |
 | confluentinc-kafka-connect-jms  | 10.0.0 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.0 |
-| confluentinc-kafka-connect-kinesis  | 1.3.0 |
+| confluentinc-kafka-connect-kinesis  | 1.3.1 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
 | confluentinc-kafka-connect-maprdb  | 1.1.1 |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
@@ -58,15 +58,15 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-pagerduty  | 1.0.1 |
 | confluentinc-kafka-connect-pivotal-gemfire  | 1.0.1 |
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.2-preview |
-| confluentinc-kafka-connect-rabbitmq  | 1.4.0 |
-| confluentinc-kafka-connect-rabbitmq-sink  | 1.4.0 |
+| confluentinc-kafka-connect-rabbitmq  | 1.4.1 |
+| confluentinc-kafka-connect-rabbitmq-sink  | 1.4.1 |
 | confluentinc-kafka-connect-replicator  | 5.5.1 |
 | confluentinc-kafka-connect-s3  | 5.5.2 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
 | confluentinc-kafka-connect-salesforce  | 1.7.3 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.3 |
 | confluentinc-kafka-connect-servicenow  | 2.0.1 |
-| confluentinc-kafka-connect-sftp  | 2.1.2 |
+| confluentinc-kafka-connect-sftp  | 2.1.3 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.0 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
