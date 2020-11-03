@@ -40,7 +40,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hbase  | 1.0.5 |
 | confluentinc-kafka-connect-hdfs  | 5.5.2 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.3.2 |
-| confluentinc-kafka-connect-hdfs3  | 1.0.5 |
+| confluentinc-kafka-connect-hdfs3  | 1.0.6 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.3.2 |
 | confluentinc-kafka-connect-http  | 1.0.16 |
 | confluentinc-kafka-connect-ibmmq  | 10.0.0 |
@@ -72,7 +72,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
 | confluentinc-kafka-connect-splunk-source  | 1.0.2 |
 | confluentinc-kafka-connect-sqs  | 1.1.0 |
-| confluentinc-kafka-connect-syslog  | 1.3.1 |
+| confluentinc-kafka-connect-syslog  | 1.3.2 |
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.2 |
