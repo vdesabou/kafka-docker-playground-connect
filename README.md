@@ -63,8 +63,8 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-replicator  | 5.5.1 |
 | confluentinc-kafka-connect-s3  | 5.5.2 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
-| confluentinc-kafka-connect-salesforce  | 1.7.3 |
-| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.3 |
+| confluentinc-kafka-connect-salesforce  | 1.7.4 |
+| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.4 |
 | confluentinc-kafka-connect-servicenow  | 2.0.1 |
 | confluentinc-kafka-connect-sftp  | 2.1.3 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
@@ -76,7 +76,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.2 |
-| confluentinc-kafka-connect-zendesk  | 1.0.2 |
+| confluentinc-kafka-connect-zendesk  | 1.0.3 |
 | debezium-debezium-connector-mongodb  | 1.2.2 |
 | debezium-debezium-connector-mysql  | 1.2.2 |
 | debezium-debezium-connector-postgresql  | 1.2.2 |
