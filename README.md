@@ -53,6 +53,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-kinesis  | 1.3.1 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
 | confluentinc-kafka-connect-maprdb  | 1.1.1 |
+| confluentinc-kafka-connect-marketo  | 1.0.0-preview |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.1 |
