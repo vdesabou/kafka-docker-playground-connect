@@ -1,4 +1,4 @@
-# kafka-docker-playground-connect [![Build Status](https://travis-ci.com/vdesabou/kafka-docker-playground-connect.svg?branch=master)](https://travis-ci.com/vdesabou/kafka-docker-playground-connect)
+# kafka-docker-playground-connect ![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
 
 Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground) repository
 
@@ -61,7 +61,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.2-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.4.1 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.4.1 |
-| confluentinc-kafka-connect-replicator  | 5.5.1 |
+| confluentinc-kafka-connect-replicator  | 6.0.0 |
 | confluentinc-kafka-connect-s3  | 5.5.2 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
 | confluentinc-kafka-connect-salesforce  | 1.7.4 |
@@ -78,10 +78,10 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.3 |
 | confluentinc-kafka-connect-zendesk  | 1.0.3 |
-| debezium-debezium-connector-mongodb  | 1.2.2 |
-| debezium-debezium-connector-mysql  | 1.2.2 |
-| debezium-debezium-connector-postgresql  | 1.2.2 |
-| debezium-debezium-connector-sqlserver  | 1.2.2 |
+| debezium-debezium-connector-mongodb  | 1.3.1 |
+| debezium-debezium-connector-mysql  | 1.3.1 |
+| debezium-debezium-connector-postgresql  | 1.3.1 |
+| debezium-debezium-connector-sqlserver  | 1.3.1 |
 | jcustenborder-kafka-connect-redis  | 0.0.2.11 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.46 |
 | kafka-connect-couchbase  | 3.4.8 |
@@ -89,4 +89,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.0 |
 | splunk-kafka-connect-splunk  | 2.0 |
-| wepay-kafka-connect-bigquery  | 1.6.1 |
+| wepay-kafka-connect-bigquery  | 1.6.6 |
