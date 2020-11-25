@@ -13,7 +13,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.2 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.3 |
 | confluentinc-kafka-connect-aws-lambda  | 1.0.5 |
-| confluentinc-kafka-connect-aws-redshift  | 1.0.3 |
+| confluentinc-kafka-connect-aws-redshift  | 1.0.4 |
 | confluentinc-kafka-connect-azure-blob-storage  | 1.5.0 |
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.3.2 |
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.5.0 |
@@ -46,7 +46,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ibmmq  | 10.0.1 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.0 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
-| confluentinc-kafka-connect-jdbc  | 10.0.0 |
+| confluentinc-kafka-connect-jdbc  | 10.0.1 |
 | confluentinc-kafka-connect-jira  | 1.0.0-preview |
 | confluentinc-kafka-connect-jms  | 10.0.1 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.0 |
