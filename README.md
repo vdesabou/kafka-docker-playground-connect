@@ -23,7 +23,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-search  | 1.0.3 |
 | confluentinc-kafka-connect-azure-service-bus  | 1.1.2 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
-| confluentinc-kafka-connect-cassandra  | 1.2.2 |
+| confluentinc-kafka-connect-cassandra  | 2.0.0 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
 | confluentinc-kafka-connect-datadog-metrics  | 1.1.2 |
 | confluentinc-kafka-connect-elasticsearch  | 10.0.2 |
