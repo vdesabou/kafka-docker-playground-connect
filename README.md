@@ -5,7 +5,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | connector  | version |
 |---|---|
 | confluentinc-connect-transforms  | 1.3.2 |
-| confluentinc-kafka-connect-activemq  | 10.0.1 |
+| confluentinc-kafka-connect-activemq  | 10.1.0 |
 | confluentinc-kafka-connect-activemq-sink  | 1.1.6 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.2 |
@@ -43,16 +43,16 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs3  | 1.0.7 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.3.2 |
 | confluentinc-kafka-connect-http  | 1.1.0 |
-| confluentinc-kafka-connect-ibmmq  | 10.0.1 |
+| confluentinc-kafka-connect-ibmmq  | 10.1.0 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.0 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
 | confluentinc-kafka-connect-jdbc  | 10.0.1 |
 | confluentinc-kafka-connect-jira  | 1.0.1-preview |
-| confluentinc-kafka-connect-jms  | 10.0.1 |
+| confluentinc-kafka-connect-jms  | 10.1.0 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.0 |
 | confluentinc-kafka-connect-kinesis  | 1.3.1 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
-| confluentinc-kafka-connect-maprdb  | 1.1.1 |
+| confluentinc-kafka-connect-maprdb  | 1.1.2 |
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
@@ -76,7 +76,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-syslog  | 1.3.2 |
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
-| confluentinc-kafka-connect-vertica  | 1.2.3 |
+| confluentinc-kafka-connect-vertica  | 1.2.4 |
 | confluentinc-kafka-connect-zendesk  | 1.0.4 |
 | debezium-debezium-connector-mongodb  | 1.3.1 |
 | debezium-debezium-connector-mysql  | 1.3.1 |
@@ -87,6 +87,6 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | kafka-connect-couchbase  | 3.4.8 |
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
-| snowflakeinc-snowflake-kafka-connector  | 1.5.0 |
+| snowflakeinc-snowflake-kafka-connector  | 1.5.1 |
 | splunk-kafka-connect-splunk  | 2.0 |
 | wepay-kafka-connect-bigquery  | 1.6.6 |
