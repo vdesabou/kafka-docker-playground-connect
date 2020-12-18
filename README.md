@@ -77,7 +77,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-sink  | 1.3.0 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.4 |
-| confluentinc-kafka-connect-zendesk  | 1.0.4 |
+| confluentinc-kafka-connect-zendesk  | 1.0.5 |
 | debezium-debezium-connector-mongodb  | 1.3.1 |
 | debezium-debezium-connector-mysql  | 1.3.1 |
 | debezium-debezium-connector-postgresql  | 1.3.1 |
