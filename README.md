@@ -9,7 +9,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-activemq-sink  | 1.1.6 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.3 |
-| confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.0.5 |
+| confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.1.0 |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.3 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.0 |
@@ -83,7 +83,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | debezium-debezium-connector-postgresql  | 1.3.1 |
 | debezium-debezium-connector-sqlserver  | 1.3.1 |
 | jcustenborder-kafka-connect-redis  | 0.0.2.11 |
-| jcustenborder-kafka-connect-spooldir  | 2.0.54 |
+| jcustenborder-kafka-connect-spooldir  | 2.0.56 |
 | kafka-connect-couchbase  | 3.4.8 |
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
