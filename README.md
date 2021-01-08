@@ -4,7 +4,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 
 | connector  | version |
 |---|---|
-| confluentinc-connect-transforms  | 1.3.2 |
+| confluentinc-connect-transforms  | 1.4.0 |
 | confluentinc-kafka-connect-activemq  | 10.1.0 |
 | confluentinc-kafka-connect-activemq-sink  | 1.1.6 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
@@ -12,7 +12,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.1.0 |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.3 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
-| confluentinc-kafka-connect-aws-lambda  | 1.1.0 |
+| confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
 | confluentinc-kafka-connect-aws-redshift  | 1.0.4 |
 | confluentinc-kafka-connect-azure-blob-storage  | 1.5.0 |
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.3.2 |
@@ -64,8 +64,8 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-replicator  | 6.0.0 |
 | confluentinc-kafka-connect-s3  | 5.5.3 |
 | confluentinc-kafka-connect-s3-source  | 1.3.2 |
-| confluentinc-kafka-connect-salesforce  | 1.7.8 |
-| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.8 |
+| confluentinc-kafka-connect-salesforce  | 1.7.9 |
+| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.9 |
 | confluentinc-kafka-connect-servicenow  | 2.0.3 |
 | confluentinc-kafka-connect-sftp  | 2.1.5 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
