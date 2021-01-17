@@ -32,7 +32,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.6 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.0.2 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.2 |
-| confluentinc-kafka-connect-gcp-pubsub  | 1.0.5 |
+| confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.3 |
 | confluentinc-kafka-connect-gcs  | 5.5.5 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.1 |
