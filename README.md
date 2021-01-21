@@ -50,7 +50,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-jira  | 1.0.1-preview |
 | confluentinc-kafka-connect-jms  | 10.1.0 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.0 |
-| confluentinc-kafka-connect-kinesis  | 1.3.1 |
+| confluentinc-kafka-connect-kinesis  | 1.3.2 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
 | confluentinc-kafka-connect-maprdb  | 1.1.2 |
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
