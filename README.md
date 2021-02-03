@@ -38,7 +38,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs-source  | 1.4.2 |
 | confluentinc-kafka-connect-github  | 1.0.2 |
 | confluentinc-kafka-connect-hbase  | 1.0.6 |
-| confluentinc-kafka-connect-hdfs  | 10.0.0 |
+| confluentinc-kafka-connect-hdfs  | 10.0.1 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.2 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.0 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.4.2 |
@@ -56,6 +56,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
+| confluentinc-kafka-connect-oracle-cdc  | 1.0.1 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.2 |
 | confluentinc-kafka-connect-pivotal-gemfire  | 1.0.3 |
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.3-preview |
@@ -89,4 +90,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.2 |
 | splunk-kafka-connect-splunk  | 2.0 |
-| wepay-kafka-connect-bigquery  | 1.6.6 |
+| wepay-kafka-connect-bigquery  | 2.0.0 |
