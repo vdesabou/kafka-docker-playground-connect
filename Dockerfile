@@ -91,3 +91,4 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-pivotal-gemfire
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-zendesk:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-bigtable:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-marketo:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-oracle-cdc:latest
