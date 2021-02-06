@@ -65,10 +65,10 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-replicator  | 6.0.1 |
 | confluentinc-kafka-connect-s3  | 5.5.3 |
 | confluentinc-kafka-connect-s3-source  | 1.4.2 |
-| confluentinc-kafka-connect-salesforce  | 1.7.13 |
-| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.13 |
+| confluentinc-kafka-connect-salesforce  | 1.7.14 |
+| confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.14 |
 | confluentinc-kafka-connect-servicenow  | 2.0.3 |
-| confluentinc-kafka-connect-sftp  | 2.1.6 |
+| confluentinc-kafka-connect-sftp  | 2.2.0 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.1 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
