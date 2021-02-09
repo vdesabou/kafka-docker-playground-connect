@@ -18,8 +18,9 @@ jobs:
       fail-fast: false
       matrix:
         tag: [
-          "6.0.1 6.0.1-1-ubi8",
-          "6.0.0 6.0.0-1-ubi8",
+          "6.1.0",
+          "6.0.1",
+          "6.0.0",
           "5.5.2-1-ubi8 5.5.2 5.5.1-1-ubi8 5.5.0 5.5.0-1-ubi8",
           "5.5.1 5.5.2",
           "5.4.2-1-ubi8 5.4.2 5.4.3-1-ubi8 5.4.3",
@@ -54,7 +55,7 @@ jobs:
 
       - name: Update README
         run: |
-          ./scripts/get-versions.sh "6.0.1"
+          ./scripts/get-versions.sh "6.1.0"
       - name: push
         uses: github-actions-x/commit@v2.6
         with:
