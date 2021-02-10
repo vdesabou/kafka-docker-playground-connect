@@ -43,6 +43,9 @@ jobs:
       - name: Create images
         run: bash scripts/create-image.sh "${{ matrix.tag }}"
 
+      - name: Create operator images
+        run: bash scripts/create-image-operator.sh "${{ matrix.tag }}"
+
   post-build-success:
     name: Update README
     needs: build
