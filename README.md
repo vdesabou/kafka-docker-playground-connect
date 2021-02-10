@@ -19,7 +19,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.0 |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.6.0 |
 | confluentinc-kafka-connect-azure-event-hubs  | 1.1.0 |
-| confluentinc-kafka-connect-azure-functions  | 1.0.8 |
+| confluentinc-kafka-connect-azure-functions  | 1.0.9 |
 | confluentinc-kafka-connect-azure-search  | 1.0.4 |
 | confluentinc-kafka-connect-azure-service-bus  | 1.1.3 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
@@ -31,7 +31,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ftps  | 1.0.3-preview |
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.6 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.1.1 |
-| confluentinc-kafka-connect-gcp-functions  | 1.1.2 |
+| confluentinc-kafka-connect-gcp-functions  | 1.1.3 |
 | confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.4 |
 | confluentinc-kafka-connect-gcs  | 5.5.5 |
@@ -62,13 +62,13 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.3-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.4.1 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.4.1 |
-| confluentinc-kafka-connect-replicator  | 6.0.1 |
+| confluentinc-kafka-connect-replicator  | 6.1.0 |
 | confluentinc-kafka-connect-s3  | 5.5.3 |
 | confluentinc-kafka-connect-s3-source  | 1.4.3 |
 | confluentinc-kafka-connect-salesforce  | 1.7.14 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.14 |
 | confluentinc-kafka-connect-servicenow  | 2.0.3 |
-| confluentinc-kafka-connect-sftp  | 2.2.1 |
+| confluentinc-kafka-connect-sftp  | 2.2.2 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.1 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
