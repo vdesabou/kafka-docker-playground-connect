@@ -3,6 +3,7 @@ FROM confluentinc/cp-server-connect-operator:${TAG}.0
 ARG TAG
 ARG TAG_BASE
 USER root
+RUN yum -y install findutils jq
 COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
 COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
