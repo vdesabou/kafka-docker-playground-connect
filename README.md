@@ -6,7 +6,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 |---|---|
 | confluentinc-connect-transforms  | 1.4.0 |
 | confluentinc-kafka-connect-activemq  | 11.0.0 |
-| confluentinc-kafka-connect-activemq-sink  | 1.1.6 |
+| confluentinc-kafka-connect-activemq-sink  | 1.2.2 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.3 |
 | confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.1.0 |
