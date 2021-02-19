@@ -27,7 +27,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
 | confluentinc-kafka-connect-datadog-metrics  | 1.1.3 |
 | confluentinc-kafka-connect-datagen  | 0.4.0 |
-| confluentinc-kafka-connect-elasticsearch  | 11.0.1 |
+| confluentinc-kafka-connect-elasticsearch  | 11.0.2 |
 | confluentinc-kafka-connect-firebase  | 1.2.0 |
 | confluentinc-kafka-connect-ftps  | 1.0.3-preview |
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.6 |
@@ -78,7 +78,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-syslog  | 1.3.2 |
 | confluentinc-kafka-connect-tibco-sink  | 1.3.1 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
-| confluentinc-kafka-connect-vertica  | 1.2.4 |
+| confluentinc-kafka-connect-vertica  | 1.2.5 |
 | confluentinc-kafka-connect-zendesk  | 1.0.5 |
 | debezium-debezium-connector-mongodb  | 1.3.1 |
 | debezium-debezium-connector-mysql  | 1.3.1 |
