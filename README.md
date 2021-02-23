@@ -13,7 +13,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.3 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
-| confluentinc-kafka-connect-aws-redshift  | 1.0.4 |
+| confluentinc-kafka-connect-aws-redshift  | 1.0.5 |
 | confluentinc-kafka-connect-azure-blob-storage  | 1.6.1 |
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.4.3 |
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.1 |
