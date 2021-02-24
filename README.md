@@ -47,7 +47,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ibmmq  | 11.0.0 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
-| confluentinc-kafka-connect-jdbc  | 10.0.1 |
+| confluentinc-kafka-connect-jdbc  | 10.0.2 |
 | confluentinc-kafka-connect-jira  | 1.0.2-preview |
 | confluentinc-kafka-connect-jms  | 11.0.0 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.2 |
@@ -57,7 +57,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
-| confluentinc-kafka-connect-oracle-cdc  | 1.0.3 |
+| confluentinc-kafka-connect-oracle-cdc  | 1.0.4 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.2 |
 | confluentinc-kafka-connect-pivotal-gemfire  | 1.0.5 |
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.3-preview |
@@ -69,7 +69,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-salesforce  | 1.7.14 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.7.14 |
 | confluentinc-kafka-connect-servicenow  | 2.0.3 |
-| confluentinc-kafka-connect-sftp  | 2.2.3 |
+| confluentinc-kafka-connect-sftp  | 2.2.4 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.2 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
@@ -90,5 +90,5 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.2 |
-| splunk-kafka-connect-splunk  | 2.0 |
+| splunk-kafka-connect-splunk  | 2.0.2 |
 | wepay-kafka-connect-bigquery  | 2.1.0 |
