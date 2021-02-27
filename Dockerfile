@@ -4,7 +4,8 @@ FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
 ARG TAG
 ARG TAG_BASE
 USER root
-RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which || true && exit 0
+RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
+RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
 COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
