@@ -5,7 +5,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | connector  | version |
 |---|---|
 | confluentinc-connect-transforms  | 1.4.0 |
-| confluentinc-kafka-connect-activemq  | 11.0.0 |
+| confluentinc-kafka-connect-activemq  | 11.0.1 |
 | confluentinc-kafka-connect-activemq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.3 |
@@ -43,13 +43,13 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.3 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.0 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.4.3 |
-| confluentinc-kafka-connect-http  | 1.2.0 |
-| confluentinc-kafka-connect-ibmmq  | 11.0.0 |
+| confluentinc-kafka-connect-http  | 1.2.1 |
+| confluentinc-kafka-connect-ibmmq  | 11.0.1 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
 | confluentinc-kafka-connect-jdbc  | 10.0.2 |
-| confluentinc-kafka-connect-jira  | 1.0.2-preview |
-| confluentinc-kafka-connect-jms  | 11.0.0 |
+| confluentinc-kafka-connect-jira  | 1.0.3-preview |
+| confluentinc-kafka-connect-jms  | 11.0.1 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.2 |
 | confluentinc-kafka-connect-kinesis  | 1.3.3 |
 | confluentinc-kafka-connect-kudu  | 1.0.1 |
