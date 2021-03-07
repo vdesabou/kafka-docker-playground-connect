@@ -30,7 +30,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-elasticsearch  | 11.0.2 |
 | confluentinc-kafka-connect-firebase  | 1.2.0 |
 | confluentinc-kafka-connect-ftps  | 1.0.3-preview |
-| confluentinc-kafka-connect-gcp-bigtable  | 1.0.6 |
+| confluentinc-kafka-connect-gcp-bigtable  | 1.0.7 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.1.1 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.3 |
 | confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
@@ -38,7 +38,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs  | 5.5.5 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.3 |
 | confluentinc-kafka-connect-github  | 1.0.3 |
-| confluentinc-kafka-connect-hbase  | 1.0.6 |
+| confluentinc-kafka-connect-hbase  | 1.0.7 |
 | confluentinc-kafka-connect-hdfs  | 10.0.1 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.3 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.0 |
