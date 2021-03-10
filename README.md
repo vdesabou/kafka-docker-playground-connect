@@ -37,7 +37,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.4 |
 | confluentinc-kafka-connect-gcs  | 5.5.5 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.3 |
-| confluentinc-kafka-connect-github  | 1.0.3 |
+| confluentinc-kafka-connect-github  | 1.0.4 |
 | confluentinc-kafka-connect-hbase  | 1.0.7 |
 | confluentinc-kafka-connect-hdfs  | 10.0.1 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.3 |
@@ -57,9 +57,9 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
 | confluentinc-kafka-connect-mqtt  | 1.4.0 |
 | confluentinc-kafka-connect-omnisci  | 1.0.2 |
-| confluentinc-kafka-connect-oracle-cdc  | 1.0.4 |
+| confluentinc-kafka-connect-oracle-cdc  | 1.0.5 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.2 |
-| confluentinc-kafka-connect-pivotal-gemfire  | 1.0.5 |
+| confluentinc-kafka-connect-pivotal-gemfire  | 1.0.6 |
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.3-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.5.0 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.5.0 |
@@ -79,7 +79,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-sink  | 1.3.2 |
 | confluentinc-kafka-connect-tibco-source  | 1.2.0 |
 | confluentinc-kafka-connect-vertica  | 1.2.5 |
-| confluentinc-kafka-connect-zendesk  | 1.0.5 |
+| confluentinc-kafka-connect-zendesk  | 1.0.6 |
 | debezium-debezium-connector-mongodb  | 1.4.0 |
 | debezium-debezium-connector-mysql  | 1.4.0 |
 | debezium-debezium-connector-postgresql  | 1.4.0 |
