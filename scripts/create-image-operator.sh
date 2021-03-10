@@ -66,6 +66,11 @@ do
       TAG_JDBC=$TAG_BASE
     fi
 
+    if [ "$TAG_BASE" = "5.0.2" ] || [ "$TAG_BASE" = "5.0.3" ]
+    then
+      TAG_JDBC="5.0.1"
+    fi
+
     retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
 
     docker push vdesabou/kafka-docker-playground-connect-operator:$TAG
