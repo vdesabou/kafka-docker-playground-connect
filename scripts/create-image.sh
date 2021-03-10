@@ -60,7 +60,14 @@ do
       export CP_CONNECT_IMAGE=cp-kafka-connect-base
   fi
 
-  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE -t vdesabou/kafka-docker-playground-connect:$TAG .
+  TAG_JDBC="latest"
+  if ! version_gt $TAG_BASE "5.9.0"; then
+    # for version less than 6.0.0, use JDBC with same version
+    # see https://github.com/vdesabou/kafka-docker-playground/issues/221
+    TAG_JDBC=$TAG_BASE
+  fi
+
+  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC -t vdesabou/kafka-docker-playground-connect:$TAG .
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done

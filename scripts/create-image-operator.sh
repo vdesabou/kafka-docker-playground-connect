@@ -59,7 +59,14 @@ do
     # to handle ubi8 images
     export TAG_BASE=$(echo $TAG | cut -d "-" -f1)
 
-    retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
+    TAG_JDBC="latest"
+    if ! version_gt $TAG_BASE "5.9.0"; then
+      # for version less than 6.0.0, use JDBC with same version
+      # see https://github.com/vdesabou/kafka-docker-playground/issues/221
+      TAG_JDBC=$TAG_BASE
+    fi
+
+    retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
 
     docker push vdesabou/kafka-docker-playground-connect-operator:$TAG
   else

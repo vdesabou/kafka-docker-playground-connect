@@ -1,8 +1,10 @@
 ARG TAG
 ARG CP_CONNECT_IMAGE
+ARG TAG_JDBC
 FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
 ARG TAG
 ARG TAG_BASE
+ARG TAG_JDBC
 USER root
 RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
@@ -16,7 +18,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:l
 RUN confluent-hub install --no-prompt wepay/kafka-connect-bigquery:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-hdfs:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jdbc:${TAG_JDBC}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-kinesis:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-s3-source:latest
