@@ -22,4 +22,6 @@ do
     fi
 done
 
+git diff README.md | grep '^+' | grep -v README | tr '\n' ' ' | sed 's/ //g' | sed 's/+//g'
+
 cp $readme_tmp_file $readme_file
