@@ -48,7 +48,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
 | confluentinc-kafka-connect-jdbc  | 10.0.2 |
-| confluentinc-kafka-connect-jira  | 1.0.3-preview |
+| confluentinc-kafka-connect-jira  | 1.0.4-preview |
 | confluentinc-kafka-connect-jms  | 11.0.2 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.2 |
 | confluentinc-kafka-connect-kinesis  | 1.3.3 |
