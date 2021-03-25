@@ -84,7 +84,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | debezium-debezium-connector-mysql  | 1.4.0 |
 | debezium-debezium-connector-postgresql  | 1.4.0 |
 | debezium-debezium-connector-sqlserver  | 1.4.0 |
-| jcustenborder-kafka-connect-redis  | 0.0.2.11 |
+| jcustenborder-kafka-connect-redis  | 0.0.2.12 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.60 |
 | kafka-connect-couchbase  | 3.4.8 |
 | mongodb-kafka-connect-mongodb  | 1.2.0 |
