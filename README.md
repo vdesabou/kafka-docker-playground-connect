@@ -8,9 +8,9 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-activemq  | 11.0.2 |
 | confluentinc-kafka-connect-activemq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-amps  | 1.0.0-preview |
-| confluentinc-kafka-connect-appdynamics-metrics  | 1.1.3 |
+| confluentinc-kafka-connect-appdynamics-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.1.0 |
-| confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.3 |
+| confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
 | confluentinc-kafka-connect-aws-redshift  | 1.0.5 |
@@ -25,7 +25,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
 | confluentinc-kafka-connect-cassandra  | 2.0.0 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
-| confluentinc-kafka-connect-datadog-metrics  | 1.1.3 |
+| confluentinc-kafka-connect-datadog-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-datagen  | 0.4.0 |
 | confluentinc-kafka-connect-elasticsearch  | 11.0.3 |
 | confluentinc-kafka-connect-firebase  | 1.2.0 |
@@ -60,7 +60,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-oracle-cdc  | 1.0.5 |
 | confluentinc-kafka-connect-pagerduty  | 1.0.2 |
 | confluentinc-kafka-connect-pivotal-gemfire  | 1.0.6 |
-| confluentinc-kafka-connect-prometheus-metrics  | 1.1.3-preview |
+| confluentinc-kafka-connect-prometheus-metrics  | 1.1.4-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.5.0 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.5.0 |
 | confluentinc-kafka-connect-replicator  | 6.1.0 |
