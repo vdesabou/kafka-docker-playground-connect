@@ -63,7 +63,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-prometheus-metrics  | 1.1.4-preview |
 | confluentinc-kafka-connect-rabbitmq  | 1.5.0 |
 | confluentinc-kafka-connect-rabbitmq-sink  | 1.5.0 |
-| confluentinc-kafka-connect-replicator  | 6.1.0 |
+| confluentinc-kafka-connect-replicator  | 6.1.1 |
 | confluentinc-kafka-connect-s3  | 10.0.0 |
 | confluentinc-kafka-connect-s3-source  | 1.4.3 |
 | confluentinc-kafka-connect-salesforce  | 1.8.0 |
