@@ -63,7 +63,7 @@ jobs:
 
       - name: Update README
         run: |
-          COMMIT_MESSAGE=$(./scripts/get-versions.sh "6.1.0")
+          COMMIT_MESSAGE=$(./scripts/get-versions.sh "6.1.1")
           echo "commit_msg=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: push
         uses: github-actions-x/commit@v2.6
