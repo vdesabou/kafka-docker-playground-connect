@@ -97,3 +97,5 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-bigtable:la
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-marketo:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-oracle-cdc:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-datagen:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-weblogic:latest
+RUN confluent-hub install --no-prompt microsoftcorporation/kafka-connect-cosmos:latest
