@@ -68,7 +68,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-s3-source  | 1.4.4 |
 | confluentinc-kafka-connect-salesforce  | 1.8.1 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.8.1 |
-| confluentinc-kafka-connect-servicenow  | 2.0.4 |
+| confluentinc-kafka-connect-servicenow  | 2.1.0 |
 | confluentinc-kafka-connect-sftp  | 2.2.4 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.2 |
@@ -93,4 +93,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.2 |
 | splunk-kafka-connect-splunk  | 2.0.2 |
-| wepay-kafka-connect-bigquery  | 2.1.0 |
+| wepay-kafka-connect-bigquery  | 2.1.1 |
