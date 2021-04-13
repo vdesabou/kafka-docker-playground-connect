@@ -14,10 +14,10 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
 | confluentinc-kafka-connect-aws-redshift  | 1.0.5 |
-| confluentinc-kafka-connect-azure-blob-storage  | 1.6.1 |
+| confluentinc-kafka-connect-azure-blob-storage  | 1.6.2 |
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.4.5 |
-| confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.1 |
-| confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.6.1 |
+| confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.2 |
+| confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.6.2 |
 | confluentinc-kafka-connect-azure-event-hubs  | 1.2.0 |
 | confluentinc-kafka-connect-azure-functions  | 1.0.9 |
 | confluentinc-kafka-connect-azure-search  | 1.0.4 |
@@ -47,7 +47,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ibmmq  | 11.0.2 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
-| confluentinc-kafka-connect-jdbc  | 10.1.0 |
+| confluentinc-kafka-connect-jdbc  | 10.1.1 |
 | confluentinc-kafka-connect-jira  | 1.0.4-preview |
 | confluentinc-kafka-connect-jms  | 11.0.2 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.2 |
@@ -68,7 +68,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-s3-source  | 1.4.5 |
 | confluentinc-kafka-connect-salesforce  | 1.8.1 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.8.1 |
-| confluentinc-kafka-connect-servicenow  | 2.1.0 |
+| confluentinc-kafka-connect-servicenow  | 2.1.1 |
 | confluentinc-kafka-connect-sftp  | 2.2.4 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.2 |
