@@ -51,7 +51,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-jira  | 1.0.4-preview |
 | confluentinc-kafka-connect-jms  | 11.0.2 |
 | confluentinc-kafka-connect-jms-sink  | 1.3.2 |
-| confluentinc-kafka-connect-kinesis  | 1.3.4 |
+| confluentinc-kafka-connect-kinesis  | 1.3.5 |
 | confluentinc-kafka-connect-kudu  | 1.0.2 |
 | confluentinc-kafka-connect-maprdb  | 1.1.3 |
 | confluentinc-kafka-connect-marketo  | 1.0.0-preview |
@@ -81,10 +81,10 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-vertica  | 1.2.5 |
 | confluentinc-kafka-connect-weblogic  | 11.0.2 |
 | confluentinc-kafka-connect-zendesk  | 1.0.6 |
-| debezium-debezium-connector-mongodb  | 1.4.0 |
-| debezium-debezium-connector-mysql  | 1.4.0 |
-| debezium-debezium-connector-postgresql  | 1.4.0 |
-| debezium-debezium-connector-sqlserver  | 1.4.0 |
+| debezium-debezium-connector-mongodb  | 1.5.0 |
+| debezium-debezium-connector-mysql  | 1.5.0 |
+| debezium-debezium-connector-postgresql  | 1.4.1 |
+| debezium-debezium-connector-sqlserver  | 1.5.0 |
 | jcustenborder-kafka-connect-redis  | 0.0.2.12 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.61 |
 | kafka-connect-couchbase  | 3.4.8 |
