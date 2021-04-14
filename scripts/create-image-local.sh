@@ -42,10 +42,6 @@ function version_gt() { test "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$
 # jmx exporter java agent
 wget https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.12.0/jmx_prometheus_javaagent-0.12.0.jar
 
-# specific to couchbase connector
-wget https://packages.couchbase.com/clients/kafka/3.4.8/kafka-connect-couchbase-3.4.8.zip
-unzip kafka-connect-couchbase-3.4.8.zip
-
 path_to_local_connector=$1
 shift
 cp $path_to_local_connector .
@@ -74,4 +70,4 @@ do
 
 done
 
-rm -rf kafka-connect-couchbase-3.4.8 kafka-connect-couchbase-3.4.8.zip jmx_prometheus_javaagent-0.12.0.jar $CONNECTOR
+rm -rf jmx_prometheus_javaagent-0.12.0.jar $CONNECTOR

@@ -47,10 +47,6 @@ function docker_tag_exists() {
 # jmx exporter java agent
 wget https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.12.0/jmx_prometheus_javaagent-0.12.0.jar
 
-# specific to couchbase connector
-wget https://packages.couchbase.com/clients/kafka/3.4.8/kafka-connect-couchbase-3.4.8.zip
-unzip kafka-connect-couchbase-3.4.8.zip
-
 for version in $@
 do
   if docker_tag_exists confluentinc/cp-server-connect-operator "${version}.0"
@@ -80,5 +76,3 @@ do
   fi
 
 done
-
-rm -rf kafka-connect-couchbase-3.4.8 kafka-connect-couchbase-3.4.8.zip

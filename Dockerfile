@@ -9,7 +9,6 @@ USER root
 RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
-COPY kafka-connect-couchbase-3.4.8 /usr/share/confluent-hub-components/kafka-connect-couchbase
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
@@ -99,3 +98,5 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-oracle-cdc:late
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-datagen:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-weblogic:latest
 RUN confluent-hub install --no-prompt microsoftcorporation/kafka-connect-cosmos:latest
+RUN confluent-hub install --no-prompt microsoftcorporation/kafka-connect-cosmos:latest
+RUN confluent-hub install --no-prompt couchbase/kafka-connect-couchbase:latest
