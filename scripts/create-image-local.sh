@@ -53,6 +53,13 @@ do
   # to handle ubi8 images
   export TAG_BASE=$(echo $TAG | cut -d "-" -f1)
 
+  if [[ "$TAG" == *ubi8 ]] || version_gt $TAG_BASE "5.9.0"
+  then
+    CONNECT_USER="appuser"
+  else
+    CONNECT_USER="root"
+  fi
+
   first_version=${TAG_BASE}
   second_version=5.3.0
   if version_gt $first_version $second_version; then
@@ -66,6 +73,7 @@ do
       --build-arg CONNECTOR=$CONNECTOR \
       --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE \
       --build-arg TAG_BASE=$TAG_BASE \
+      --build-arg CONNECT_USER=$CONNECT_USER \
       -t vdesabou/kafka-docker-playground-connect:$TAG .
 
 done

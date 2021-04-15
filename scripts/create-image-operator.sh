@@ -55,6 +55,13 @@ do
     # to handle ubi8 images
     export TAG_BASE=$(echo $TAG | cut -d "-" -f1)
 
+    if [[ "$TAG" == *ubi8 ]] || version_gt $TAG_BASE "5.9.0"
+    then
+      CONNECT_USER="appuser"
+    else
+      CONNECT_USER="root"
+    fi
+
     TAG_JDBC="latest"
     if ! version_gt $TAG_BASE "5.9.0"; then
       # for version less than 6.0.0, use JDBC with same version
@@ -67,7 +74,7 @@ do
       TAG_JDBC="5.0.1"
     fi
 
-    retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
+    retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
 
     docker push vdesabou/kafka-docker-playground-connect-operator:$TAG
   else

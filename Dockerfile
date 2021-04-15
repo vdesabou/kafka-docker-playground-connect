@@ -1,14 +1,17 @@
 ARG TAG
 ARG CP_CONNECT_IMAGE
 ARG TAG_JDBC
+ARG CONNECT_USER
 FROM confluentinc/${CP_CONNECT_IMAGE}:${TAG}
 ARG TAG
 ARG TAG_BASE
 ARG TAG_JDBC
+ARG CONNECT_USER
 USER root
 RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables || true && exit 0
 COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
+USER ${CONNECT_USER}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
 RUN confluent-hub install --no-prompt debezium/debezium-connector-mysql:latest
