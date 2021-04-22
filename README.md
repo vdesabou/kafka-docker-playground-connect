@@ -11,7 +11,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-appdynamics-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-aws-cloudwatch-logs  | 1.1.0 |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.4 |
-| confluentinc-kafka-connect-aws-dynamodb  | 1.1.4 |
+| confluentinc-kafka-connect-aws-dynamodb  | 1.2.0 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
 | confluentinc-kafka-connect-aws-redshift  | 1.0.5 |
 | confluentinc-kafka-connect-azure-blob-storage  | 1.6.2 |
@@ -35,7 +35,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-functions  | 1.1.3 |
 | confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.5 |
-| confluentinc-kafka-connect-gcs  | 5.5.5 |
+| confluentinc-kafka-connect-gcs  | 5.5.6 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.5 |
 | confluentinc-kafka-connect-github  | 1.0.4 |
 | confluentinc-kafka-connect-hbase  | 1.0.7 |
@@ -69,7 +69,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-salesforce  | 1.8.2 |
 | confluentinc-kafka-connect-salesforce-bulk-api  | 1.8.2 |
 | confluentinc-kafka-connect-servicenow  | 2.1.1 |
-| confluentinc-kafka-connect-sftp  | 2.2.4 |
+| confluentinc-kafka-connect-sftp  | 2.3.0 |
 | confluentinc-kafka-connect-snmp  | 1.1.2 |
 | confluentinc-kafka-connect-solace-sink  | 1.3.2 |
 | confluentinc-kafka-connect-solace-source  | 1.2.0 |
@@ -81,7 +81,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-vertica  | 1.2.5 |
 | confluentinc-kafka-connect-weblogic  | 11.0.2 |
 | confluentinc-kafka-connect-zendesk  | 1.0.6 |
-| couchbase-kafka-connect-couchbase  | 4.0.5 |
+| couchbase-kafka-connect-couchbase  | 4.0.6 |
 | debezium-debezium-connector-mongodb  | 1.5.0 |
 | debezium-debezium-connector-mysql  | 1.5.0 |
 | debezium-debezium-connector-postgresql  | 1.4.1 |
