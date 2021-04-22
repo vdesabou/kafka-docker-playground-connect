@@ -22,7 +22,7 @@ function logwarn() {
 
 function retry() {
   local n=1
-  local max=5
+  local max=3
   while true; do
     "$@" && break || {
       if [[ $n -lt $max ]]; then
