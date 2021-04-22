@@ -60,8 +60,9 @@ jobs:
       - name: Create operator images
         run: bash scripts/create-image-operator.sh "${{ matrix.tag }}"
 
-  post-build-success:
+  post-build:
     name: Update README
+    if: always()
     needs: build
     runs-on: ubuntu-latest
     steps:
