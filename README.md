@@ -13,7 +13,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-aws-cloudwatch-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-aws-dynamodb  | 1.2.0 |
 | confluentinc-kafka-connect-aws-lambda  | 1.1.1 |
-| confluentinc-kafka-connect-aws-redshift  | 1.0.5 |
+| confluentinc-kafka-connect-aws-redshift  | 1.1.0 |
 | confluentinc-kafka-connect-azure-blob-storage  | 1.6.2 |
 | confluentinc-kafka-connect-azure-blob-storage-source  | 1.4.5 |
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.2 |
@@ -27,10 +27,10 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
 | confluentinc-kafka-connect-datadog-metrics  | 1.1.4 |
 | confluentinc-kafka-connect-datagen  | 0.4.0 |
-| confluentinc-kafka-connect-elasticsearch  | 11.0.3 |
+| confluentinc-kafka-connect-elasticsearch  | 11.0.4 |
 | confluentinc-kafka-connect-firebase  | 1.2.0 |
 | confluentinc-kafka-connect-ftps  | 1.0.3-preview |
-| confluentinc-kafka-connect-gcp-bigtable  | 1.0.7 |
+| confluentinc-kafka-connect-gcp-bigtable  | 1.0.8 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.1.1 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.3 |
 | confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
@@ -38,8 +38,8 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs  | 5.5.6 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.5 |
 | confluentinc-kafka-connect-github  | 1.0.4 |
-| confluentinc-kafka-connect-hbase  | 1.0.7 |
-| confluentinc-kafka-connect-hdfs  | 10.0.2 |
+| confluentinc-kafka-connect-hbase  | 1.0.8 |
+| confluentinc-kafka-connect-hdfs  | 10.0.3 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.5 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.1 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.4.5 |
