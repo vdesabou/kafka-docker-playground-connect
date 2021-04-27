@@ -89,7 +89,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | jcustenborder-kafka-connect-redis  | 0.0.2.12 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.61 |
 | microsoftcorporation-kafka-connect-cosmos  | 1.0.4-beta |
-| mongodb-kafka-connect-mongodb  | 1.2.0 |
+| mongodb-kafka-connect-mongodb  | 1.5.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.2 |
 | splunk-kafka-connect-splunk  | 2.0.2 |
