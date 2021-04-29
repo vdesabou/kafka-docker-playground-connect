@@ -56,7 +56,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-rabbitmq:latest
 RUN confluent-hub install --no-prompt jcustenborder/kafka-connect-spooldir:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-pubsub:latest
 # https://github.com/vdesabou/kafka-docker-playground/issues/792
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-1.0.4
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-spanner:1.0.4
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-dataproc-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jms-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs-source:latest
