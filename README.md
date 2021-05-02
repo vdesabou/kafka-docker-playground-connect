@@ -19,7 +19,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage  | 1.6.2 |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage  | 1.6.2 |
 | confluentinc-kafka-connect-azure-event-hubs  | 1.2.0 |
-| confluentinc-kafka-connect-azure-functions  | 1.0.9 |
+| confluentinc-kafka-connect-azure-functions  | 1.0.10 |
 | confluentinc-kafka-connect-azure-search  | 1.0.4 |
 | confluentinc-kafka-connect-azure-service-bus  | 1.1.3 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
