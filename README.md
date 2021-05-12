@@ -21,7 +21,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-event-hubs  | 1.2.0 |
 | confluentinc-kafka-connect-azure-functions  | 1.0.10 |
 | confluentinc-kafka-connect-azure-search  | 1.0.4 |
-| confluentinc-kafka-connect-azure-service-bus  | 1.1.3 |
+| confluentinc-kafka-connect-azure-service-bus  | 1.1.4 |
 | confluentinc-kafka-connect-azure-sql-dw  | 1.0.4 |
 | confluentinc-kafka-connect-cassandra  | 2.0.0 |
 | confluentinc-kafka-connect-data-diode  | 1.1.1 |
@@ -91,6 +91,6 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | microsoftcorporation-kafka-connect-cosmos  | 1.0.4-beta |
 | mongodb-kafka-connect-mongodb  | 1.5.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
-| snowflakeinc-snowflake-kafka-connector  | 1.5.2 |
+| snowflakeinc-snowflake-kafka-connector  | 1.5.3 |
 | splunk-kafka-connect-splunk  | 2.0.2 |
 | wepay-kafka-connect-bigquery  | 2.1.3 |
