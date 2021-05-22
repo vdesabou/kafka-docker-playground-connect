@@ -39,7 +39,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs-source  | 1.4.5 |
 | confluentinc-kafka-connect-github  | 1.0.4 |
 | confluentinc-kafka-connect-hbase  | 1.0.9 |
-| confluentinc-kafka-connect-hdfs  | 10.0.4 |
+| confluentinc-kafka-connect-hdfs  | 10.0.5 |
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.5 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.1 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.4.5 |
