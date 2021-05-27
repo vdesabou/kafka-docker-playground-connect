@@ -6,17 +6,25 @@ template_file=README-template.md
 readme_file=README.md
 readme_tmp_file=/tmp/README.md
 
+if [ ! -d ${PWD}/confluent-hub-components${image_version} ]
+then
+docker rm -f kafka-docker-playground-connect${image_version}
+docker create -ti --name kafka-docker-playground-connect${image_version} vdesabou/kafka-docker-playground-connect:${image_version} bash
+docker cp kafka-docker-playground-connect${image_version}:/usr/share/confluent-hub-components ${PWD}/confluent-hub-components${image_version}
+docker rm -f kafka-docker-playground-connect${image_version}
+fi
+
 cp $template_file $readme_tmp_file
 echo "| connector  | version | license | owner | release date |" >> $readme_tmp_file
 echo "|---|---|---|---|---|" >> $readme_tmp_file
-for dir in $(docker run vdesabou/kafka-docker-playground-connect:${image_version} ls /usr/share/confluent-hub-components/)
+for connector in $(ls ${PWD}/confluent-hub-components${image_version})
 do
-    version=$(docker run vdesabou/kafka-docker-playground-connect:${image_version} cat /usr/share/confluent-hub-components/${dir}/manifest.json | jq -r '.version')
-    license=$(docker run vdesabou/kafka-docker-playground-connect:${image_version} cat /usr/share/confluent-hub-components/${dir}/manifest.json | jq -r '.license[0].name')
-    owner=$(docker run vdesabou/kafka-docker-playground-connect:${image_version} cat /usr/share/confluent-hub-components/${dir}/manifest.json | jq -r '.owner.name')
-    release_date=$(docker run vdesabou/kafka-docker-playground-connect:${image_version} cat /usr/share/confluent-hub-components/${dir}/manifest.json | jq -r '.release_date')
+    version=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.version')
+    license=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.license[0].name')
+    owner=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.owner.name')
+    release_date=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.release_date')
 
-    echo "| $dir  | $version | $license | $owner | $release_date |" >> $readme_tmp_file
+    echo "| $connector | $version | $license | $owner | $release_date |" >> $readme_tmp_file
 done
 
 cp $readme_tmp_file $readme_file
