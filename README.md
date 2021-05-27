@@ -33,7 +33,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-bigtable  | 1.0.9 |
 | confluentinc-kafka-connect-gcp-dataproc-sink  | 1.1.1 |
 | confluentinc-kafka-connect-gcp-functions  | 1.1.5 |
-| confluentinc-kafka-connect-gcp-pubsub  | 1.0.6 |
+| confluentinc-kafka-connect-gcp-pubsub  | 1.0.7 |
 | confluentinc-kafka-connect-gcp-spanner  | 1.0.4 |
 | confluentinc-kafka-connect-gcs  | 5.5.6 |
 | confluentinc-kafka-connect-gcs-source  | 1.4.5 |
@@ -43,7 +43,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs2-source  | 1.4.5 |
 | confluentinc-kafka-connect-hdfs3  | 1.1.1 |
 | confluentinc-kafka-connect-hdfs3-source  | 1.4.5 |
-| confluentinc-kafka-connect-http  | 1.3.0 |
+| confluentinc-kafka-connect-http  | 1.4.0 |
 | confluentinc-kafka-connect-ibmmq  | 11.0.6 |
 | confluentinc-kafka-connect-ibmmq-sink  | 1.3.2 |
 | confluentinc-kafka-connect-influxdb  | 1.2.1 |
@@ -88,7 +88,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | debezium-debezium-connector-sqlserver  | 1.5.0 |
 | jcustenborder-kafka-connect-redis  | 0.0.2.12 |
 | jcustenborder-kafka-connect-spooldir  | 2.0.62 |
-| microsoftcorporation-kafka-connect-cosmos  | 1.0.4-beta |
+| microsoftcorporation-kafka-connect-cosmos  | 1.0.9-beta |
 | mongodb-kafka-connect-mongodb  | 1.5.0 |
 | neo4j-kafka-connect-neo4j  | 1.0.9 |
 | snowflakeinc-snowflake-kafka-connector  | 1.5.4 |
