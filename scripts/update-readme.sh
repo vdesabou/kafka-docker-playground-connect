@@ -32,4 +32,4 @@ done
 
 cp $readme_tmp_file $readme_file
 
-git diff $readme_file | grep '^+' | grep -v README | tr '\n' ' ' | sed 's/ //g' | sed 's/+//g' | sed 's/confluentinc-kafka-connect-//g' | sed 's/-debezium-connector//g' | sed 's/kafka-connect-//g' | sed 's/mongodb-//g' | sed 's/jcustenborder-//g'  | sed 's/-snowflake-kafka-connector//g' | sed 's/wepay-//g' | sed 's/splunk-//g' | sed 's/neo4j-//g'  | sed 's/||/ /g' | sed 's/^|//g' | sed 's/|/=/g' | sed 's/=$//g'
+git diff $readme_file | grep '^+' | grep -v README | awk -F'|' '{print $2 FS $3 FS}'  | sed 's/|$/\//' | tr '\n' ' ' | sed 's/ //g' | sed 's/+//g' | sed 's/confluentinc-kafka-connect-//g' | sed 's/-debezium-connector//g' | sed 's/kafka-connect-//g' | sed 's/mongodb-//g' | sed 's/jcustenborder-//g'  | sed 's/-snowflake-kafka-connector//g' | sed 's/wepay-//g' | sed 's/splunk-//g' | sed 's/neo4j-//g'  | sed 's/||/ /g' | sed 's/^|//g' | sed 's/|/=/g' | sed 's/=$//g'
