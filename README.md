@@ -5,7 +5,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | connector  | version | license | owner | release date |
 |---|---|---|---|---|
 | confluentinc-connect-transforms | 1.4.0 | Confluent Software License | Confluent, Inc. | 2021-01-07 |
-| confluentinc-kafka-connect-activemq | 11.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-20 |
+| confluentinc-kafka-connect-activemq | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 |
 | confluentinc-kafka-connect-activemq-sink | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-19 |
 | confluentinc-kafka-connect-amps | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-07-08 |
 | confluentinc-kafka-connect-appdynamics-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 |
@@ -44,12 +44,12 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs3 | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-08 |
 | confluentinc-kafka-connect-hdfs3-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
 | confluentinc-kafka-connect-http | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 |
-| confluentinc-kafka-connect-ibmmq | 11.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-20 |
+| confluentinc-kafka-connect-ibmmq | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 |
 | confluentinc-kafka-connect-ibmmq-sink | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-19 |
 | confluentinc-kafka-connect-influxdb | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2020-09-30 |
 | confluentinc-kafka-connect-jdbc | 10.2.0 | Confluent Community License | Confluent, Inc. | 2021-05-18 |
 | confluentinc-kafka-connect-jira | 1.0.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-27 |
-| confluentinc-kafka-connect-jms | 11.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-20 |
+| confluentinc-kafka-connect-jms | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 |
 | confluentinc-kafka-connect-jms-sink | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-19 |
 | confluentinc-kafka-connect-kinesis | 1.3.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-07 |
 | confluentinc-kafka-connect-kudu | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-12 |
@@ -79,7 +79,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-tibco-sink | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-19 |
 | confluentinc-kafka-connect-tibco-source | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-08-26 |
 | confluentinc-kafka-connect-vertica | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc | 2021-02-18 |
-| confluentinc-kafka-connect-weblogic | 11.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-20 |
+| confluentinc-kafka-connect-weblogic | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 |
 | confluentinc-kafka-connect-zendesk | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 |
 | couchbase-kafka-connect-couchbase | 4.0.6 | Apache License 2.0 | Couchbase, Inc. | 2021-04-19 |
 | debezium-debezium-connector-mongodb | 1.5.0 | Apache 2.0 | Debezium Community | null |
@@ -89,7 +89,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | jcustenborder-kafka-connect-redis | 0.0.2.12 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-03-24 |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 |
 | microsoftcorporation-kafka-connect-cosmos | 1.0.9-beta | MIT License | Microsoft Corporation | 2021-05-26 |
-| mongodb-kafka-connect-mongodb | 1.5.0 | The Apache License, Version 2.0 | MongoDB | 2021-03-30 |
+| mongodb-kafka-connect-mongodb | 1.5.1 | The Apache License, Version 2.0 | MongoDB | 2021-06-01 |
 | neo4j-kafka-connect-neo4j | 1.0.9 | Apache License, Version 2.0 | Neo4j, Inc. | 2020-09-02 |
 | snowflakeinc-snowflake-kafka-connector | 1.5.4 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-05-19 |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null |
