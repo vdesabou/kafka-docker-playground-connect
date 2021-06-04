@@ -39,7 +39,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
 | confluentinc-kafka-connect-github | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 |
 | confluentinc-kafka-connect-hbase | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 |
-| confluentinc-kafka-connect-hdfs | 10.0.5 | Confluent Community License | Confluent, Inc. | 2021-05-21 |
+| confluentinc-kafka-connect-hdfs | 10.0.6 | Confluent Community License | Confluent, Inc. | 2021-06-03 |
 | confluentinc-kafka-connect-hdfs2-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
 | confluentinc-kafka-connect-hdfs3 | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-08 |
 | confluentinc-kafka-connect-hdfs3-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
