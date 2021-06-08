@@ -84,7 +84,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | couchbase-kafka-connect-couchbase | 4.0.6 | Apache License 2.0 | Couchbase, Inc. | 2021-04-19 |
 | debezium-debezium-connector-mongodb | 1.5.0 | Apache 2.0 | Debezium Community | null |
 | debezium-debezium-connector-mysql | 1.5.0 | Apache 2.0 | Debezium Community | null |
-| debezium-debezium-connector-postgresql | 1.4.1 | Apache 2.0 | Debezium Community | null |
+| debezium-debezium-connector-postgresql | 1.5.0 | Apache 2.0 | Debezium Community | null |
 | debezium-debezium-connector-sqlserver | 1.5.0 | Apache 2.0 | Debezium Community | null |
 | jcustenborder-kafka-connect-redis | 0.0.2.12 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-03-24 |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 |
@@ -94,4 +94,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | snowflakeinc-snowflake-kafka-connector | 1.5.4 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-05-19 |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null |
 | streamthoughts-kafka-connect-file-pulse | 1.6.3 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-03-30 |
-| wepay-kafka-connect-bigquery | 2.1.3 | Apache License 2.0 | WePay | 2021-04-09 |
+| wepay-kafka-connect-bigquery | 2.1.4 | Apache License 2.0 | WePay | 2021-06-08 |
