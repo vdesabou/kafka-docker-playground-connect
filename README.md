@@ -27,7 +27,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-data-diode | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2019-10-18 |
 | confluentinc-kafka-connect-datadog-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 |
 | confluentinc-kafka-connect-datagen | 0.5.0 | Apache License 2.0 | Confluent, Inc. | 2021-05-20 |
-| confluentinc-kafka-connect-elasticsearch | 11.0.4 | Confluent Community License | Confluent, Inc. | 2021-04-23 |
+| confluentinc-kafka-connect-elasticsearch | 11.0.5 | Confluent Community License | Confluent, Inc. | 2021-06-08 |
 | confluentinc-kafka-connect-firebase | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-01 |
 | confluentinc-kafka-connect-ftps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-01 |
 | confluentinc-kafka-connect-gcp-bigtable | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 |
@@ -66,8 +66,8 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-replicator | 6.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-22 |
 | confluentinc-kafka-connect-s3 | 10.0.0 | Confluent Community License | Confluent, Inc. | 2021-03-03 |
 | confluentinc-kafka-connect-s3-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
-| confluentinc-kafka-connect-salesforce | 1.9.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-14 |
-| confluentinc-kafka-connect-salesforce-bulk-api | 1.9.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-14 |
+| confluentinc-kafka-connect-salesforce | 1.9.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-09 |
+| confluentinc-kafka-connect-salesforce-bulk-api | 1.9.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-09 |
 | confluentinc-kafka-connect-servicenow | 2.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-20 |
 | confluentinc-kafka-connect-sftp | 2.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-06 |
 | confluentinc-kafka-connect-snmp | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2020-04-09 |
