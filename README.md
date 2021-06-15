@@ -93,5 +93,5 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | neo4j-kafka-connect-neo4j | 1.0.9 | Apache License, Version 2.0 | Neo4j, Inc. | 2020-09-02 |
 | snowflakeinc-snowflake-kafka-connector | 1.5.4 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-05-19 |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null |
-| streamthoughts-kafka-connect-file-pulse | 1.6.3 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-03-30 |
+| streamthoughts-kafka-connect-file-pulse | 2.0.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-06-10 |
 | wepay-kafka-connect-bigquery | 2.1.4 | Apache License 2.0 | WePay | 2021-06-08 |
