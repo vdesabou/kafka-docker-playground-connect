@@ -27,7 +27,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-data-diode | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2019-10-18 |
 | confluentinc-kafka-connect-datadog-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 |
 | confluentinc-kafka-connect-datagen | 0.5.0 | Apache License 2.0 | Confluent, Inc. | 2021-05-20 |
-| confluentinc-kafka-connect-elasticsearch | 11.0.5 | Confluent Community License | Confluent, Inc. | 2021-06-08 |
+| confluentinc-kafka-connect-elasticsearch | 11.0.6 | Confluent Community License | Confluent, Inc. | 2021-06-16 |
 | confluentinc-kafka-connect-firebase | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-01 |
 | confluentinc-kafka-connect-ftps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-01 |
 | confluentinc-kafka-connect-gcp-bigtable | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 |
