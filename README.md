@@ -39,7 +39,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcs-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
 | confluentinc-kafka-connect-github | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 |
 | confluentinc-kafka-connect-hbase | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 |
-| confluentinc-kafka-connect-hdfs | 10.0.6 | Confluent Community License | Confluent, Inc. | 2021-06-03 |
+| confluentinc-kafka-connect-hdfs | 10.0.7 | Confluent Community License | Confluent, Inc. | 2021-06-17 |
 | confluentinc-kafka-connect-hdfs2-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
 | confluentinc-kafka-connect-hdfs3 | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-08 |
 | confluentinc-kafka-connect-hdfs3-source | 1.4.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-08 |
@@ -57,7 +57,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-marketo | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-20 |
 | confluentinc-kafka-connect-mqtt | 1.4.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-10 |
 | confluentinc-kafka-connect-omnisci | 1.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-07 |
-| confluentinc-kafka-connect-oracle-cdc | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-07 |
+| confluentinc-kafka-connect-oracle-cdc | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-17 |
 | confluentinc-kafka-connect-pagerduty | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2020-11-18 |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 |
 | confluentinc-kafka-connect-prometheus-metrics | 1.1.4-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 |
