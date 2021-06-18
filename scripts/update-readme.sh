@@ -15,8 +15,8 @@ then
 fi
 
 cp $template_file $readme_tmp_file
-echo "| connector  | version | license | owner | release date |" >> $readme_tmp_file
-echo "|---|---|---|---|---|" >> $readme_tmp_file
+echo "| connector  | version | license | owner | release date | documentation |" >> $readme_tmp_file
+echo "|---|---|---|---|---|---|" >> $readme_tmp_file
 for connector in $(ls ${PWD}/confluent-hub-components${image_version})
 do
     if [ -f ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json ]
@@ -25,8 +25,9 @@ do
         license=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.license[0].name')
         owner=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.owner.name')
         release_date=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.release_date')
+        documentation_url=$(cat ${PWD}/confluent-hub-components${image_version}/${connector}/manifest.json | jq -r '.documentation_url')
 
-        echo "| $connector | $version | $license | $owner | $release_date |" >> $readme_tmp_file
+        echo "| $connector | $version | $license | $owner | $release_date | [documentation]($documentation_url) |" >> $readme_tmp_file
     fi
 done
 
