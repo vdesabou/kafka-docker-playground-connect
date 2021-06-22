@@ -91,7 +91,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | microsoftcorporation-kafka-connect-cosmos | 1.0.9-beta | MIT License | Microsoft Corporation | 2021-05-26 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.5.1 | The Apache License, Version 2.0 | MongoDB | 2021-06-01 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 1.0.9 | Apache License, Version 2.0 | Neo4j, Inc. | 2020-09-02 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
-| snowflakeinc-snowflake-kafka-connector | 1.5.4 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-05-19 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
+| snowflakeinc-snowflake-kafka-connector | 1.5.5 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-06-22 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.0.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-06-10 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
 | wepay-kafka-connect-bigquery | 2.1.4 | Apache License 2.0 | WePay | 2021-06-08 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
