@@ -19,6 +19,7 @@ jobs:
       matrix:
         tag: [
           "6.2.0",
+          "6.1.2",
           "6.1.1",
           "6.1.0",
           "6.0.2",
@@ -33,6 +34,7 @@ jobs:
           "5.5.2",
           "5.5.3",
           "5.5.4",
+          "5.5.5",
           "5.4.3",
           "5.4.2-1-ubi8",
           "5.4.2",
@@ -76,7 +78,7 @@ jobs:
 
       - name: Update README
         run: |
-          COMMIT_MESSAGE=$(./scripts/update-readme.sh "6.1.1")
+          COMMIT_MESSAGE=$(./scripts/update-readme.sh "6.2.0")
           echo "commit_msg=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: push
         uses: github-actions-x/commit@v2.6
