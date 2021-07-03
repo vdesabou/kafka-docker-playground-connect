@@ -107,3 +107,4 @@ RUN confluent-hub install --no-prompt microsoftcorporation/kafka-connect-cosmos:
 RUN confluent-hub install --no-prompt microsoftcorporation/kafka-connect-cosmos:latest
 RUN confluent-hub install --no-prompt couchbase/kafka-connect-couchbase:latest
 RUN confluent-hub install --no-prompt streamthoughts/kafka-connect-file-pulse:latest
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-splunk-s2s:latest
