@@ -8,9 +8,9 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-activemq | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-19 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-07-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
-| confluentinc-kafka-connect-appdynamics-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
+| confluentinc-kafka-connect-appdynamics-metrics | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-08 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-29 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
-| confluentinc-kafka-connect-aws-cloudwatch-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
+| confluentinc-kafka-connect-aws-cloudwatch-metrics | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-08 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-dynamodb | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-20 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-01-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-aws-lambda/) |
 | confluentinc-kafka-connect-aws-redshift | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-23 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
@@ -25,7 +25,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-azure-sql-dw/) |
 | confluentinc-kafka-connect-cassandra | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-cassandra/) |
 | confluentinc-kafka-connect-data-diode | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2019-10-18 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-data-diode/) |
-| confluentinc-kafka-connect-datadog-metrics | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
+| confluentinc-kafka-connect-datadog-metrics | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-08 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.5.0 | Apache License 2.0 | Confluent, Inc. | 2021-05-20 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 11.0.6 | Confluent Community License | Confluent, Inc. | 2021-06-16 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-firebase/) |
@@ -60,7 +60,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-oracle-cdc | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-17 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2020-11-18 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
-| confluentinc-kafka-connect-prometheus-metrics | 1.1.4-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-25 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
+| confluentinc-kafka-connect-prometheus-metrics | 1.1.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-08 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq | 1.5.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-04 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq-sink | 1.5.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-04 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 6.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-08 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
@@ -87,7 +87,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | debezium-debezium-connector-mysql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
-| jcustenborder-kafka-connect-redis | 0.0.2.12 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-03-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
+| jcustenborder-kafka-connect-redis | 0.0.2.13 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-07-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.0.10-beta | MIT License | Microsoft Corporation | 2021-07-06 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.5.1 | The Apache License, Version 2.0 | MongoDB | 2021-06-01 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
