@@ -31,7 +31,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-firebase | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-firebase/) |
 | confluentinc-kafka-connect-ftps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
-| confluentinc-kafka-connect-gcp-dataproc-sink | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-08 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
+| confluentinc-kafka-connect-gcp-dataproc-sink | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-13 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-15 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-04 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
@@ -89,7 +89,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | debezium-debezium-connector-sqlserver | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.2.13 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-07-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.0.10-beta | MIT License | Microsoft Corporation | 2021-07-06 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.1.0 | MIT License | Microsoft Corporation | 2021-07-08 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.5.1 | The Apache License, Version 2.0 | MongoDB | 2021-06-01 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 1.0.9 | Apache License, Version 2.0 | Neo4j, Inc. | 2020-09-02 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.5.5 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-06-22 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
