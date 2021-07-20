@@ -64,7 +64,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-rabbitmq | 1.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-09 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq-sink | 1.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-09 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 6.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-08 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
-| confluentinc-kafka-connect-s3 | 10.0.0 | Confluent Community License | Confluent, Inc. | 2021-03-03 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
+| confluentinc-kafka-connect-s3 | 10.0.1 | Confluent Community License | Confluent, Inc. | 2021-07-20 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 1.4.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-15 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
 | confluentinc-kafka-connect-salesforce | 1.10.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-09 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 1.10.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-09 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
