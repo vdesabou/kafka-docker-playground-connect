@@ -33,7 +33,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-bigtable | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-13 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-15 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
-| confluentinc-kafka-connect-gcp-pubsub | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
+| confluentinc-kafka-connect-gcp-pubsub | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-22 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-04 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 5.5.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-22 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs/index.html) |
 | confluentinc-kafka-connect-gcs-source | 1.4.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-15 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs-source/) |
@@ -82,7 +82,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-vertica | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc | 2021-02-18 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-weblogic | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 | [documentation](https://docs.confluent.io/kafka-connect-weblogic-source/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.0.6 | Apache License 2.0 | Couchbase, Inc. | 2021-04-19 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.1.0 | Apache License 2.0 | Couchbase, Inc. | 2021-07-21 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
