@@ -47,7 +47,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-ibmmq | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-20 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2020-09-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-influxdb/) |
-| confluentinc-kafka-connect-jdbc | 10.2.0 | Confluent Community License | Confluent, Inc. | 2021-05-18 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
+| confluentinc-kafka-connect-jdbc | 10.2.1 | Confluent Community License | Confluent, Inc. | 2021-07-30 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
 | confluentinc-kafka-connect-jira | 1.0.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-27 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 11.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-03 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-20 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
