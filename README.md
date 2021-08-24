@@ -6,7 +6,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 |---|---|---|---|---|---|
 | confluentinc-connect-transforms | 1.4.0 | Confluent Software License | Confluent, Inc. | 2021-01-07 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
 | confluentinc-kafka-connect-activemq | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
-| confluentinc-kafka-connect-activemq-sink | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
+| confluentinc-kafka-connect-activemq-sink | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-07-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-30 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
@@ -45,12 +45,12 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs3-source | 1.4.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-15 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
-| confluentinc-kafka-connect-ibmmq-sink | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
+| confluentinc-kafka-connect-ibmmq-sink | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2020-09-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-influxdb/) |
 | confluentinc-kafka-connect-jdbc | 10.2.1 | Confluent Community License | Confluent, Inc. | 2021-07-30 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
 | confluentinc-kafka-connect-jira | 1.0.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-27 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
-| confluentinc-kafka-connect-jms-sink | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
+| confluentinc-kafka-connect-jms-sink | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
 | confluentinc-kafka-connect-kinesis | 1.3.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-07 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-12 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
@@ -71,18 +71,18 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-servicenow | 2.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
 | confluentinc-kafka-connect-sftp | 2.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2020-04-09 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-snmp-trap/) |
-| confluentinc-kafka-connect-solace-sink | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
+| confluentinc-kafka-connect-solace-sink | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
 | confluentinc-kafka-connect-solace-source | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-08-26 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-solace/source) |
-| confluentinc-kafka-connect-splunk-s2s | 1.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk-s2s/) |
+| confluentinc-kafka-connect-splunk-s2s | 1.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/kafka-connect-splunk-s2s/current/index.html) |
 | confluentinc-kafka-connect-splunk-source | 1.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2020-11-18 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-source/) |
 | confluentinc-kafka-connect-sqs | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-04 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
 | confluentinc-kafka-connect-syslog | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-06-28 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
-| confluentinc-kafka-connect-tibco-sink | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
+| confluentinc-kafka-connect-tibco-sink | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-24 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-08-26 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-tibco/source) |
 | confluentinc-kafka-connect-vertica | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc | 2021-02-18 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-weblogic | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-weblogic-source/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.1.0 | Apache License 2.0 | Couchbase, Inc. | 2021-07-21 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.1.1 | Apache License 2.0 | Couchbase, Inc. | 2021-08-20 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 1.6.0 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
