@@ -95,4 +95,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | snowflakeinc-snowflake-kafka-connector | 1.5.5 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-06-22 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.0.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-06-10 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
-| wepay-kafka-connect-bigquery | 2.1.5 | Apache License 2.0 | WePay | 2021-08-17 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.1.6 | Apache License 2.0 | WePay | 2021-08-25 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
