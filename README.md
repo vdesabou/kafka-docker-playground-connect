@@ -9,7 +9,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-activemq-sink | 1.4.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-07-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-cloudwatch-logs | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-02 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
+| confluentinc-kafka-connect-aws-cloudwatch-logs | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-09 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-dynamodb | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-20 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-01-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-aws-lambda/) |
@@ -19,7 +19,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage | 1.6.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-12 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen1-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage | 1.6.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-12 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-event-hubs | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-26 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
-| confluentinc-kafka-connect-azure-functions | 1.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-05 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
+| confluentinc-kafka-connect-azure-functions | 1.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-09 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-16 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
 | confluentinc-kafka-connect-azure-service-bus | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-09 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-azure-sql-dw/) |
@@ -41,7 +41,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hbase | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-17 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.1.1 | Confluent Community License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 1.4.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-15 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
-| confluentinc-kafka-connect-hdfs3 | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
+| confluentinc-kafka-connect-hdfs3 | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-08 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 1.4.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-15 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
@@ -95,4 +95,4 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | snowflakeinc-snowflake-kafka-connector | 1.5.5 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-06-22 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.0.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-06-10 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
-| wepay-kafka-connect-bigquery | 2.1.6 | Apache License 2.0 | WePay | 2021-08-25 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.1.7 | Apache License 2.0 | WePay | 2021-09-09 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
