@@ -43,7 +43,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-hdfs2-source | 1.4.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-10 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-08 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 1.4.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-10 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
-| confluentinc-kafka-connect-http | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-26 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
+| confluentinc-kafka-connect-http | 1.5.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-10 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 11.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-10 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 1.4.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-02 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
