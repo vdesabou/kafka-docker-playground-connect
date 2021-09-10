@@ -75,7 +75,7 @@ do
     TAG_JDBC="5.0.1"
   fi
 
-  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect:$TAG .
+  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER --squash -t vdesabou/kafka-docker-playground-connect:$TAG .
 
   docker push vdesabou/kafka-docker-playground-connect:$TAG
 done
