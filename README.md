@@ -34,7 +34,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-13 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-15 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-22 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
-| confluentinc-kafka-connect-gcp-spanner | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-02-04 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
+| confluentinc-kafka-connect-gcp-spanner | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 5.5.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs/index.html) |
 | confluentinc-kafka-connect-gcs-source | 1.4.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-10 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs-source/) |
 | confluentinc-kafka-connect-github | 2.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-07 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
@@ -94,5 +94,5 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | neo4j-kafka-connect-neo4j | 1.0.9 | Apache License, Version 2.0 | Neo4j, Inc. | 2020-09-02 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.5.5 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-06-22 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
-| streamthoughts-kafka-connect-file-pulse | 2.0.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-06-10 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
+| streamthoughts-kafka-connect-file-pulse | 2.3.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-09-04 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
 | wepay-kafka-connect-bigquery | 2.1.7 | Apache License 2.0 | WePay | 2021-09-09 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
