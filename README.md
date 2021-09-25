@@ -35,7 +35,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-functions | 1.1.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-15 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-22 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
-| confluentinc-kafka-connect-gcs | 5.5.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs/index.html) |
+| confluentinc-kafka-connect-gcs | 5.5.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-24 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 1.4.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs-source/) |
 | confluentinc-kafka-connect-github | 2.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-07 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-14 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
