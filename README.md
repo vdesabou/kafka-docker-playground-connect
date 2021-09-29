@@ -37,7 +37,7 @@ Create Kafka Connect image with Confluent Hub connectors required for [vdesabou/
 | confluentinc-kafka-connect-gcp-spanner | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 5.5.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-28 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 1.4.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs-source/) |
-| confluentinc-kafka-connect-github | 2.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-07 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
+| confluentinc-kafka-connect-github | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-29 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-14 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.1.1 | Confluent Community License | Confluent, Inc. | 2021-08-05 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 1.4.8 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-21 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
