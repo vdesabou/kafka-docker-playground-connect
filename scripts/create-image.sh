@@ -62,10 +62,10 @@ do
   else
       export CP_CONNECT_IMAGE=cp-kafka-connect-base
   fi
-
+  export CP_CONNECT_IMAGE=cp-kafka-connect-base
   TAG_JDBC="latest"
   if ! version_gt $TAG_BASE "5.9.0"; then
-    # for version less than 6.0.0, use JDBC with same version
+    # for version less than 6.0.0, use JDBC I' with same version
     # see https://github.com/vdesabou/kafka-docker-playground/issues/221
     TAG_JDBC=$TAG_BASE
   fi
