@@ -13,7 +13,7 @@ RUN curl http://mirror.centos.org/centos/8/AppStream/x86_64/os/Packages/tcpdump-
 RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables libmnl krb5-workstation krb5-libs && yum clean all && rm -rf /var/cache/yum || true && exit 0
 RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables iproute && rm -rf /var/lib/apt/lists/* || true && exit 0
 COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
-#RUN mkdir -p /usr/share/confluent-hub-components && chown -R ${CONNECT_USER}:${CONNECT_USER} /usr/share/confluent-hub-components /etc/kafka /etc/schema-registry
+RUN mkdir -p /usr/share/confluent-hub-components && chown -R ${CONNECT_USER}:${CONNECT_USER} /usr/share/confluent-hub-components /etc/kafka /etc/schema-registry
 USER ${CONNECT_USER}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-http:latest
