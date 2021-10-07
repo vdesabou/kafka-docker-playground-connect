@@ -6,7 +6,7 @@ on:
       - master
 
   schedule:
-     - cron: '0 19 * * *' # every day at 7pm
+     - cron: '0 17 * * *' # every day at 5pm
 
   workflow_dispatch:
 
