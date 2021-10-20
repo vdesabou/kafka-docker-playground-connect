@@ -44,12 +44,9 @@ function docker_tag_exists() {
     curl --silent -f -lSL https://index.docker.io/v1/repositories/$1/tags/$2 > /dev/null
 }
 
-# jmx exporter java agent
-wget https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.12.0/jmx_prometheus_javaagent-0.12.0.jar
-
 for version in $@
 do
-  if docker_tag_exists confluentinc/cp-server-connect-operator "${version}.0"
+  if docker_tag_exists confluentinc/cp-server-connect-base "${version}"
   then
     export TAG=${version}
     # to handle ubi8 images
@@ -74,11 +71,9 @@ do
       TAG_JDBC="5.0.1"
     fi
 
-    retry docker build -f Dockerfile-operator --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect-operator:$TAG .
-
-    docker push vdesabou/kafka-docker-playground-connect-operator:$TAG
+    retry docker build -f Dockerfile-readme-image --build-arg TAG=$TAG --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect-readme:$TAG .
   else
-    logwarn "confluentinc/cp-server-connect-operator ${version}.0 does not exist"
+    logwarn "confluentinc/cp-server-connect-base ${version} does not exist"
     continue
   fi
 

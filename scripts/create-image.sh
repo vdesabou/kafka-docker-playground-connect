@@ -39,9 +39,6 @@ function retry() {
 # https://stackoverflow.com/a/24067243
 function version_gt() { test "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$1"; }
 
-# jmx exporter java agent
-wget https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.12.0/jmx_prometheus_javaagent-0.12.0.jar
-
 for version in $@
 do
   export TAG=${version}
@@ -77,5 +74,5 @@ do
 
   retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect:$TAG .
 
-  docker push vdesabou/kafka-docker-playground-connect:$TAG
+  #docker push vdesabou/kafka-docker-playground-connect:$TAG
 done

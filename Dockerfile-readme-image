@@ -1,16 +1,12 @@
 ARG TAG
 ARG TAG_JDBC
 ARG CONNECT_USER
-FROM confluentinc/cp-server-connect-operator:${TAG}.0
+FROM confluentinc/cp-server-connect-base:${TAG}
 ARG TAG
 ARG TAG_BASE
 ARG TAG_JDBC
 ARG CONNECT_USER
 USER root
-RUN  wget http://vault.centos.org/8.1.1911/BaseOS/x86_64/os/Packages/iproute-tc-4.18.0-15.el8.x86_64.rpm && rpm -i --nodeps --nosignature http://vault.centos.org/8.1.1911/BaseOS/x86_64/os/Packages/iproute-tc-4.18.0-15.el8.x86_64.rpm || true && exit 0
-RUN yum -y install bind-utils openssl unzip findutils net-tools nc jq which iptables libmnl krb5-workstation krb5-libs && yum clean all && rm -rf /var/cache/yum || true && exit 0
-RUN apt-get update; apt-get -y install bind-utils openssl unzip findutils net-tools nc jq which iptables iproute && rm -rf /var/lib/apt/lists/* || true && exit 0
-COPY jmx_prometheus_javaagent-0.12.0.jar /usr/share/
 RUN mkdir -p /usr/share/confluent-hub-components && chown -R ${CONNECT_USER}:${CONNECT_USER} /usr/share/confluent-hub-components /etc/kafka /etc/schema-registry
 USER ${CONNECT_USER}
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-ibmmq:latest
@@ -55,8 +51,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-omnisci:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-rabbitmq:latest
 RUN confluent-hub install --no-prompt jcustenborder/kafka-connect-spooldir:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-pubsub:latest
-# https://github.com/vdesabou/kafka-docker-playground/issues/792
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-spanner:1.0.4
+RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-spanner:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcp-dataproc-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-jms-sink:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-gcs-source:latest

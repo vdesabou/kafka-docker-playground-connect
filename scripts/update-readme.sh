@@ -8,10 +8,10 @@ readme_tmp_file=/tmp/README.md
 
 if [ ! -d ${PWD}/confluent-hub-components${image_version} ]
 then
-    docker rm -f kafka-docker-playground-connect${image_version} > /dev/null 2>&1
-    docker create -ti --name kafka-docker-playground-connect${image_version} vdesabou/kafka-docker-playground-connect:${image_version} bash > /dev/null 2>&1
-    docker cp kafka-docker-playground-connect${image_version}:/usr/share/confluent-hub-components ${PWD}/confluent-hub-components${image_version} > /dev/null 2>&1
-    docker rm -f kafka-docker-playground-connect${image_version} > /dev/null 2>&1
+    docker rm -f kafka-docker-playground-connect-readme${image_version} > /dev/null 2>&1
+    docker create -ti --name kafka-docker-playground-connect-readme${image_version} vdesabou/kafka-docker-playground-connect-readme:${image_version} bash > /dev/null 2>&1
+    docker cp kafka-docker-playground-connect-readme${image_version}:/usr/share/confluent-hub-components ${PWD}/confluent-hub-components${image_version} > /dev/null 2>&1
+    docker rm -f kafka-docker-playground-connect-readme${image_version} > /dev/null 2>&1
 fi
 
 cp $template_file $readme_tmp_file
