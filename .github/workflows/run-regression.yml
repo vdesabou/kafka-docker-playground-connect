@@ -74,9 +74,6 @@ jobs:
       - name: Create images
         run: bash scripts/create-image.sh "${{ matrix.tag }}"
 
-      - name: Create readme image
-        run: bash scripts/create-readme-image.sh "6.2.1"
-
   post-build:
     name: Update README
     if: always()
@@ -88,6 +85,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Create readme image
+        run: bash scripts/create-readme-image.sh "6.2.1"
+        
       - name: Update README
         run: |
           COMMIT_MESSAGE=$(./scripts/update-readme.sh "6.2.1")
