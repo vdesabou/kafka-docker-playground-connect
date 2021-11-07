@@ -53,7 +53,7 @@ do
   fi
 
   first_version=${TAG_BASE}
-  second_version=5.2.99
+  second_version=5.3.99
   if version_gt $first_version $second_version; then
       export CP_CONNECT_IMAGE=cp-server-connect-base
   else
