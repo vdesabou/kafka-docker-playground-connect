@@ -55,9 +55,9 @@ do
   first_version=${TAG_BASE}
   second_version=5.3.99
   if version_gt $first_version $second_version; then
-      export CP_CONNECT_IMAGE=cp-server-connect-base
+      export CP_CONNECT_IMAGE=confluentinc/cp-server-connect-base
   else
-      export CP_CONNECT_IMAGE=cp-kafka-connect-base
+      export CP_CONNECT_IMAGE=confluentinc/cp-kafka-connect-base
   fi
   
   TAG_JDBC="latest"
