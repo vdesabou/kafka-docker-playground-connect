@@ -53,9 +53,15 @@ do
   fi
 
   first_version=${TAG_BASE}
-  second_version=5.3.99
+  second_version=5.2.99
   if version_gt $first_version $second_version; then
-      export CP_CONNECT_IMAGE=confluentinc/cp-server-connect-base
+      if [ "$first_version" == "5.3.6" ]
+      then
+        logwarn "Workaround for ST-6539, using custom image vdesabou/cp-server-connect-base !"
+        export CP_CONNECT_IMAGE=vdesabou/cp-server-connect-base
+      else
+        export CP_CONNECT_IMAGE=confluentinc/cp-server-connect-base
+      fi
   else
       export CP_CONNECT_IMAGE=confluentinc/cp-kafka-connect-base
   fi
