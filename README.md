@@ -58,7 +58,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-mqtt | 1.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-10-22 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-05-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
 | confluentinc-kafka-connect-oracle-cdc | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-17 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
-| confluentinc-kafka-connect-pagerduty | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-02 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
+| confluentinc-kafka-connect-pagerduty | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-23 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 1.1.6-preview | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq | 1.6.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-10-27 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
@@ -75,7 +75,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-solace-source | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-15 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-splunk-source | 1.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2020-11-18 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-source/) |
 | confluentinc-kafka-connect-sqs | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-20 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
-| confluentinc-kafka-connect-syslog | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-27 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
+| confluentinc-kafka-connect-syslog | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-23 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-27 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-15 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc | 2021-02-18 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
@@ -87,7 +87,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | debezium-debezium-connector-sqlserver | 1.7.1 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.2.13 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-07-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.1.0 | MIT License | Microsoft Corporation | 2021-07-08 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.2.0 | MIT License | Microsoft Corporation | 2021-11-22 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.6.1 | The Apache License, Version 2.0 | MongoDB | 2021-08-11 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 2.0.0 | Apache License, Version 2.0 | Neo4j, Inc. | 2021-09-17 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.6.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-10-19 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
