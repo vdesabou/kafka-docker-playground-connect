@@ -11,7 +11,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-appdynamics-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-09 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-dynamodb | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2021-10-25 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
+| confluentinc-kafka-connect-aws-dynamodb | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-02 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-10-07 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-04-23 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage | 1.6.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-10-13 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
@@ -78,7 +78,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-syslog | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-23 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-27 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-15 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
-| confluentinc-kafka-connect-vertica | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc | 2021-02-18 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
+| confluentinc-kafka-connect-vertica | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc | 2021-12-03 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-09 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
 | couchbase-kafka-connect-couchbase | 4.1.4 | Apache License 2.0 | Couchbase, Inc. | 2021-11-15 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 1.7.1 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
