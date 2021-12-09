@@ -4,7 +4,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
-| confluentinc-connect-transforms | 1.4.1 | Confluent Software License | Confluent, Inc. | 2021-09-10 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
+| confluentinc-connect-transforms | 1.4.2 | Confluent Software License | Confluent, Inc. | 2021-12-08 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
 | confluentinc-kafka-connect-activemq | 11.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-25 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-27 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.0-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-07-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
@@ -35,7 +35,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-gcp-functions | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-11-10 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2021-07-22 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
-| confluentinc-kafka-connect-gcs | 5.5.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-28 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
+| confluentinc-kafka-connect-gcs | 5.5.11 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-09 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 1.4.11 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-gcs-source/) |
 | confluentinc-kafka-connect-github | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-29 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-14 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
@@ -66,8 +66,8 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-replicator | 6.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-23 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
 | confluentinc-kafka-connect-s3 | 10.0.3 | Confluent Community License | Confluent, Inc. | 2021-09-27 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 1.4.11 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-01 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
-| confluentinc-kafka-connect-salesforce | 1.10.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-01 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
-| confluentinc-kafka-connect-salesforce-bulk-api | 1.10.4 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-01 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
+| confluentinc-kafka-connect-salesforce | 1.10.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-08 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
+| confluentinc-kafka-connect-salesforce-bulk-api | 1.10.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-08 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.3.5 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
 | confluentinc-kafka-connect-sftp | 2.3.9 | Confluent Software Evaluation License | Confluent, Inc. | 2021-12-06 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2020-04-09 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-snmp-trap/) |
@@ -93,4 +93,4 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | snowflakeinc-snowflake-kafka-connector | 1.6.1 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-11-30 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.4.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2021-10-03 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
-| wepay-kafka-connect-bigquery | 2.1.9 | Apache License 2.0 | WePay | 2021-11-15 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.1.10 | Apache License 2.0 | WePay | 2021-12-08 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
