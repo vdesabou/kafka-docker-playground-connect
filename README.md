@@ -87,7 +87,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | debezium-debezium-connector-sqlserver | 1.7.1 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.2.13 | The Apache License, Version 2.0 | Jeremy Custenborder | 2021-07-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.62 | Apache License 2.0 | Jeremy Custenborder | 2021-04-29 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.2.2 | MIT License | Microsoft Corporation | 2021-12-14 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.2.3 | MIT License | Microsoft Corporation | 2021-12-20 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.6.1 | The Apache License, Version 2.0 | MongoDB | 2021-08-11 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 2.0.0 | Apache License, Version 2.0 | Neo4j, Inc. | 2021-09-17 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.6.3 | Apache License, Version 2.0 | Snowflake, Inc. | 2021-12-15 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
