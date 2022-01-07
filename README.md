@@ -25,6 +25,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-azure-sql-dw/) |
 | confluentinc-kafka-connect-cassandra | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-cassandra/) |
 | confluentinc-kafka-connect-data-diode | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2019-10-18 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-data-diode/) |
+| confluentinc-kafka-connect-databricks-delta-lake | 1.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-01-05 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-databricks-delta-lake/) |
 | confluentinc-kafka-connect-datadog-metrics | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2021-08-12 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.5.2 | Apache License 2.0 | Confluent, Inc. | 2021-10-13 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 11.1.7 | Confluent Community License | Confluent, Inc. | 2021-12-15 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
