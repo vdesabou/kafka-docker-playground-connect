@@ -92,11 +92,11 @@ jobs:
           fetch-depth: 0
 
       - name: Create readme image
-        run: bash scripts/create-readme-image.sh "6.2.1"
+        run: bash scripts/create-readme-image.sh "7.0.1"
         
       - name: Update README
         run: |
-          COMMIT_MESSAGE=$(./scripts/update-readme.sh "6.2.1")
+          COMMIT_MESSAGE=$(./scripts/update-readme.sh "7.0.1")
           echo "commit_msg=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: push
         uses: github-actions-x/commit@v2.6
