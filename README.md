@@ -40,7 +40,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-gcs-source | 2.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-02-23 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-09-29 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-01-13 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
-| confluentinc-kafka-connect-hdfs | 10.1.4 | Confluent Community License | Confluent, Inc. | 2022-01-27 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
+| confluentinc-kafka-connect-hdfs | 10.1.5 | Confluent Community License | Confluent, Inc. | 2022-02-25 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 2.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-02-23 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2022-01-27 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-02-23 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
