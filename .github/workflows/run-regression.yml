@@ -96,7 +96,8 @@ jobs:
     steps:
       # https://github.com/actions/checkout/issues/760
       - name: work around permission issue
-        run: git config --global safe.directory "$GITHUB_WORKSPACE"
+        run: |
+             git config --global safe.directory "$GITHUB_WORKSPACE"
              git config --global safe.directory /github/workspace
 
       - name: Checkout code
