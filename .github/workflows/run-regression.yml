@@ -94,13 +94,10 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-    
-      - name: Trust My Directory
-        # run: git config --global --add safe.directory /__w/github-action-playground/github-action-playground
-        run: |
-          apt-get update
-          apt-get install -y git
-          export GIT_CEILING_DIRECTORIES=/__w
+      # https://github.com/actions/checkout/issues/760
+      - name: work around permission issue
+        run: git config --global safe.directory "$GITHUB_WORKSPACE"
+             git config --global safe.directory /github/workspace
 
       - name: Checkout code
         uses: actions/checkout@v3
