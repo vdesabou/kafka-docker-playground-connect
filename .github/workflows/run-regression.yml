@@ -101,19 +101,15 @@ jobs:
         with:
           fetch-depth: 0
 
-      # https://github.com/actions/checkout/issues/760
-      - name: work around
-        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
-
       - name: Create readme image
-        run: bash scripts/create-readme-image.sh "7.0.1"
+        run: bash scripts/create-readme-image.sh "7.1.1"
         
       - name: Update README
         run: |
-          COMMIT_MESSAGE=$(./scripts/update-readme.sh "7.0.1")
+          COMMIT_MESSAGE=$(./scripts/update-readme.sh "7.1.1")
           echo "commit_msg=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: push
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
