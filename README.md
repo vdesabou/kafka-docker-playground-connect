@@ -74,7 +74,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-snmp | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-02-25 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
 | confluentinc-kafka-connect-solace-sink | 2.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-05-26 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
 | confluentinc-kafka-connect-solace-source | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-06 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
-| confluentinc-kafka-connect-splunk-source | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-06-08 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
+| confluentinc-kafka-connect-splunk-source | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2022-06-14 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
 | confluentinc-kafka-connect-sqs | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-05 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
 | confluentinc-kafka-connect-syslog | 1.4.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-06-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-05-26 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
