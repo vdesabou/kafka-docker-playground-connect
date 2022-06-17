@@ -28,7 +28,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-03-16 | [documentation](https://docs.confluent.io/kafka-connect-databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 1.1.7 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-08 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.5.3 | Apache License 2.0 | Confluent, Inc. | 2022-01-28 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
-| confluentinc-kafka-connect-elasticsearch | 13.0.0 | Confluent Community License | Confluent, Inc. | 2022-05-11 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
+| confluentinc-kafka-connect-elasticsearch | 13.1.0 | Confluent Community License | Confluent, Inc. | 2022-06-17 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2020-12-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-firebase/) |
 | confluentinc-kafka-connect-ftps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2020-10-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-03-28 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
