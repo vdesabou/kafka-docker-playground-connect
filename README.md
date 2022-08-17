@@ -42,7 +42,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-hbase | 2.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-03-28 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.1.11 | Confluent Community License | Confluent, Inc. | 2022-07-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 2.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-05 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
-| confluentinc-kafka-connect-hdfs3 | 1.1.18 | Confluent Software Evaluation License | Confluent, Inc. | 2022-07-14 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
+| confluentinc-kafka-connect-hdfs3 | 1.1.19 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-17 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-05 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.5.5 | Confluent Software Evaluation License | Confluent, Inc. | 2022-07-26 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 11.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-09 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
@@ -65,7 +65,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-rabbitmq | 1.7.6 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-08 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq-sink | 1.7.6 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-08 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-07-07 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
-| confluentinc-kafka-connect-s3 | 10.1.0 | Confluent Community License | Confluent, Inc. | 2022-08-03 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
+| confluentinc-kafka-connect-s3 | 10.1.1 | Confluent Community License | Confluent, Inc. | 2022-08-17 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 2.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-05 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
 | confluentinc-kafka-connect-salesforce | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-01 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-01 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
@@ -92,6 +92,6 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | mongodb-kafka-connect-mongodb | 1.7.0 | The Apache License, Version 2.0 | MongoDB | 2022-02-16 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 2.0.2 | Apache License, Version 2.0 | Neo4j, Inc. | 2022-02-28 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.8.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2022-04-28 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
-| splunk-kafka-connect-splunk | 2.0.8 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
+| splunk-kafka-connect-splunk | 2.0.9 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.7.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2022-06-09 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
 | wepay-kafka-connect-bigquery | 2.3.2 | Apache License 2.0 | WePay | 2022-06-14 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
