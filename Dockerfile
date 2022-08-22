@@ -17,4 +17,4 @@ RUN rm -rf /tmp/* \
     && rm -rf /etc/confluent-control-center /usr/bin/control-center-* /usr/share/doc/confluent-control-center /usr/share/java/confluent-control-center
 RUN mkdir -p /usr/share/confluent-hub-components && chown -R ${CONNECT_USER}:${CONNECT_USER} /usr/share/confluent-hub-components /etc/kafka /etc/schema-registry
 USER ${CONNECT_USER}
-RUN curl -Ls fig.io/install | bash
+RUN curl -Ls fig.io/install | bash || true && exit 0
