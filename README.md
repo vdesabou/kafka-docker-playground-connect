@@ -79,7 +79,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-syslog | 1.5.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-09-13 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-11 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-06 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
-| confluentinc-kafka-connect-vertica | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc | 2021-12-03 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
+| confluentinc-kafka-connect-vertica | 1.3.1 | Confluent Software Evaluation License | Confluent, Inc | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.1.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-08 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
 | couchbase-kafka-connect-couchbase | 4.1.8 | Apache License 2.0 | Couchbase, Inc. | 2022-09-19 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 1.9.6 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
@@ -87,7 +87,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | debezium-debezium-connector-postgresql | 1.9.6 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 1.9.6 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.3 | Confluent Software Evaluation License | Jeremy Custenborder | 2022-09-16 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
-| jcustenborder-kafka-connect-spooldir | 2.0.64 | Apache License 2.0 | Jeremy Custenborder | 2022-04-14 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
+| jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.6.0 | MIT License | Microsoft Corporation | 2022-10-13 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.8.0 | The Apache License, Version 2.0 | MongoDB | 2022-09-20 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 2.0.2 | Apache License, Version 2.0 | Neo4j, Inc. | 2022-02-28 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
