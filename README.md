@@ -90,7 +90,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.6.0 | MIT License | Microsoft Corporation | 2022-10-13 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.8.0 | The Apache License, Version 2.0 | MongoDB | 2022-09-20 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
-| neo4j-kafka-connect-neo4j | 2.0.2 | Apache License, Version 2.0 | Neo4j, Inc. | 2022-02-28 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
+| neo4j-kafka-connect-neo4j | 5.0.0 | Apache License, Version 2.0 | Neo4j, Inc. | 2022-10-07 | [documentation](https://neo4j-contrib.github.io/neo4j-streams/#_kafka_connect) |
 | snowflakeinc-snowflake-kafka-connector | 1.8.1 | Apache License, Version 2.0 | Snowflake, Inc. | 2022-09-02 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.0.9 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | streamthoughts-kafka-connect-file-pulse | 2.7.0 | The Apache Software License, Version 2.0 | StreamThoughts | 2022-06-09 | [documentation](https://github.com/streamthoughts/kafka-connect-file-pulse) |
