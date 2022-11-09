@@ -56,9 +56,9 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-kudu | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-12 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.1-preview | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-03 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
-| confluentinc-kafka-connect-mqtt | 1.5.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-07-19 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
+| confluentinc-kafka-connect-mqtt | 1.5.3 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-09 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-13 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-28 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-09 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-02 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 1.2.1-preview | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-05 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
@@ -70,7 +70,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-salesforce | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-28 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-28 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.3.9 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-03 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
-| confluentinc-kafka-connect-sftp | 3.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-04 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
+| confluentinc-kafka-connect-sftp | 3.1.7 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-09 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-06-29 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
 | confluentinc-kafka-connect-solace-sink | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-28 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
 | confluentinc-kafka-connect-solace-source | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2022-04-06 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
