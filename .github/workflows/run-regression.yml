@@ -18,7 +18,7 @@ jobs:
       fail-fast: false
       matrix:
         tag: [
-          "7.3.0 7.3.1",
+          "7.3.0 7.3.1 7.3.2",
           "7.2.0 7.2.1 7.2.2 7.2.3",
           "7.1.1 7.1.2 7.1.3 7.1.4 7.1.5",
           "7.1.0",
@@ -106,11 +106,11 @@ jobs:
           fetch-depth: 0
 
       - name: Create readme image
-        run: bash scripts/create-readme-image.sh "7.2.1"
+        run: bash scripts/create-readme-image.sh "7.3.2"
         
       - name: Update README
         run: |
-          COMMIT_MESSAGE=$(./scripts/update-readme.sh "7.2.1")
+          COMMIT_MESSAGE=$(./scripts/update-readme.sh "7.3.2")
           echo "commit_msg=$COMMIT_MESSAGE" >> $GITHUB_ENV
       - name: push
         uses: github-actions-x/commit@v2.9
