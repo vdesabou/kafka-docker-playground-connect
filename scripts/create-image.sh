@@ -84,5 +84,5 @@ do
 
 # https://medium.com/geekculture/docker-build-with-mac-m1-d668c802ab96
 
-# docker buildx build --build-arg TAG=7.3.0 --build-arg CP_CONNECT_IMAGE=confluentinc/cp-server-connect-base --build-arg TAG_BASE=7.3.0 --build-arg TAG_JDBC=latest --build-arg CONNECT_USER=appuser --push --tag vdesabou/kafka-docker-playground-connect:7.3.0 -o type=image --platform=linux/arm64,linux/amd64 .
+# docker buildx build --build-arg TAG=7.3.2 --build-arg CP_CONNECT_IMAGE=confluentinc/cp-server-connect-base --build-arg TAG_BASE=7.3.2 --build-arg TAG_JDBC=latest --build-arg CONNECT_USER=appuser --push --tag vdesabou/kafka-docker-playground-connect:7.3.2 -o type=image --platform=linux/arm64,linux/amd64 .
 done
