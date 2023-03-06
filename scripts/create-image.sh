@@ -37,7 +37,7 @@ function retry() {
 }
 
 function docker_tag_exists() {
-    curl --silent -f -lSL https://index.docker.io/v1/repositories/$1/tags/$2 > /dev/null
+    docker manifest inspect $1:$2 > /dev/null
 }
 
 # https://stackoverflow.com/a/24067243
@@ -82,7 +82,7 @@ do
     TAG_JDBC="5.0.1"
   fi
 
-  if docker_tag_exists vdesabou/kafka-docker-playground-connect:$TAG
+  if docker_tag_exists vdesabou/kafka-docker-playground-connect $TAG
   then
       log "vdesabou/kafka-docker-playground-connect:$TAG already exists, skipping..."
   else 
