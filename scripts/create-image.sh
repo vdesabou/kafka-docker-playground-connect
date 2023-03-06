@@ -36,6 +36,10 @@ function retry() {
   done
 }
 
+function docker_tag_exists() {
+    curl --silent -f -lSL https://index.docker.io/v1/repositories/$1/tags/$2 > /dev/null
+}
+
 # https://stackoverflow.com/a/24067243
 function version_gt() { test "$(printf '%s\n' "$@" | sort -V | head -n 1)" != "$1"; }
 
@@ -78,9 +82,15 @@ do
     TAG_JDBC="5.0.1"
   fi
 
-  retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect:$TAG .
+  if docker_tag_exists vdesabou/kafka-docker-playground-connect:$TAG
+  then
+      log "vdesabou/kafka-docker-playground-connect:$TAG already exists, skipping..."
+  else 
+    retry docker build --build-arg TAG=$TAG --build-arg CP_CONNECT_IMAGE=$CP_CONNECT_IMAGE --build-arg TAG_BASE=$TAG_BASE --build-arg TAG_JDBC=$TAG_JDBC --build-arg CONNECT_USER=$CONNECT_USER -t vdesabou/kafka-docker-playground-connect:$TAG .
 
-  docker push vdesabou/kafka-docker-playground-connect:$TAG
+    docker push vdesabou/kafka-docker-playground-connect:$TAG
+  fi
+
 
 # https://medium.com/geekculture/docker-build-with-mac-m1-d668c802ab96
 
