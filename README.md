@@ -1,4 +1,4 @@
-# kafka-docker-playground-connect ![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
+![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
 
 **THIS REPOSITORY IS NO MORE USED BY KAFKA-DOCKER-PLAYGROUND**
 
