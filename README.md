@@ -1,8 +1,6 @@
-![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
+# kafka-docker-playground-connect ![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
 
-**THIS REPOSITORY IS NO MORE USED BY KAFKA-DOCKER-PLAYGROUND**
-
-See [here](https://kafka-docker-playground.io/#/how-it-works?id=%f0%9f%94%97-connect-image-used) for more information
+Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground) repository
 
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
