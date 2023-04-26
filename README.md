@@ -34,7 +34,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-09 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-14 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-15 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
-| confluentinc-kafka-connect-gcp-pubsub | 1.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-07-20 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
+| confluentinc-kafka-connect-gcp-pubsub | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-04-25 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2022-09-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 10.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-21 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 2.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-03 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
