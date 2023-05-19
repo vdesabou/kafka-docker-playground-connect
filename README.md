@@ -52,7 +52,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-jira | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 12.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
-| confluentinc-kafka-connect-kinesis | 1.3.16 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-17 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
+| confluentinc-kafka-connect-kinesis | 1.3.17 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-19 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-12 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.2-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
