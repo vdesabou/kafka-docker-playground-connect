@@ -5,7 +5,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
 | confluentinc-connect-transforms | 1.4.3 | Confluent Software License | Confluent, Inc. | 2022-06-09 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
-| confluentinc-kafka-connect-activemq | 12.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
+| confluentinc-kafka-connect-activemq | 12.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-26 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.1-preview | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-12-19 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
@@ -45,12 +45,12 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-hdfs3 | 1.1.25 | Confluent Software Evaluation License | Confluent, Inc. | 2023-04-12 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.5.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-08 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-04-12 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
-| confluentinc-kafka-connect-ibmmq | 12.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
+| confluentinc-kafka-connect-ibmmq | 12.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-26 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-30 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
 | confluentinc-kafka-connect-jdbc | 10.7.1 | Confluent Community License | Confluent, Inc. | 2023-04-25 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
 | confluentinc-kafka-connect-jira | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
-| confluentinc-kafka-connect-jms | 12.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
+| confluentinc-kafka-connect-jms | 12.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-26 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
 | confluentinc-kafka-connect-kinesis | 1.3.17 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-19 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2021-03-12 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
@@ -76,7 +76,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-solace-source | 1.2.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-16 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-splunk-source | 1.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-24 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
 | confluentinc-kafka-connect-sqs | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-23 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
-| confluentinc-kafka-connect-syslog | 1.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-28 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
+| confluentinc-kafka-connect-syslog | 1.5.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-16 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.1 | Confluent Software Evaluation License | Confluent, Inc | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
