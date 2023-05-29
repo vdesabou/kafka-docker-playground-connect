@@ -48,7 +48,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-ibmmq | 12.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-26 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-30 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
-| confluentinc-kafka-connect-jdbc | 10.7.1 | Confluent Community License | Confluent, Inc. | 2023-04-25 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
+| confluentinc-kafka-connect-jdbc | 10.7.2 | Confluent Community License | Confluent, Inc. | 2023-05-29 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
 | confluentinc-kafka-connect-jira | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 12.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-26 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-29 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
