@@ -28,7 +28,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2023-06-12 | [documentation](https://docs.confluent.io/kafka-connect-databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-12-19 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.6.0 | Apache License 2.0 | Confluent, Inc. | 2022-09-16 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
-| confluentinc-kafka-connect-elasticsearch | 14.0.6 | Confluent Community License | Confluent, Inc. | 2023-04-03 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
+| confluentinc-kafka-connect-elasticsearch | 14.0.7 | Confluent Community License | Confluent, Inc. | 2023-07-18 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-31 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-06-09 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-06-23 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
@@ -58,7 +58,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-marketo | 1.0.2-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-19 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2022-10-13 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.7.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-07 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.7.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-19 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-02 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2022-12-19 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
