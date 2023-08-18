@@ -58,14 +58,14 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-marketo | 1.0.2-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-19 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.7.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-19 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.8.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-18 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2022-11-02 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-12 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq-sink | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-12 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
-| confluentinc-kafka-connect-s3 | 10.5.3 | Confluent Community License | Confluent, Inc. | 2023-08-16 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
+| confluentinc-kafka-connect-s3 | 10.5.4 | Confluent Community License | Confluent, Inc. | 2023-08-18 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 2.5.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-08 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
 | confluentinc-kafka-connect-salesforce | 2.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-10 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 2.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-10 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
@@ -93,4 +93,4 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | neo4j-kafka-connect-neo4j | 5.0.2 | Apache License, Version 2.0 | Neo4j, Inc. | 2022-11-28 | [documentation](https://neo4j.com/docs/kafka/quickstart-connect/) |
 | snowflakeinc-snowflake-kafka-connector | 2.0.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2023-07-31 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.1.1 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
-| wepay-kafka-connect-bigquery | 2.5.1 | Apache License 2.0 | WePay | 2023-08-08 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.5.2 | Apache License 2.0 | WePay | 2023-08-18 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
