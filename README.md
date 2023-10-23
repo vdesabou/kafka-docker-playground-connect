@@ -56,7 +56,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-kudu | 1.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-29 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.2-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-03-27 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
-| confluentinc-kafka-connect-mqtt | 1.7.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-01-19 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
+| confluentinc-kafka-connect-mqtt | 1.7.1 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-23 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
 | confluentinc-kafka-connect-oracle-cdc | 2.9.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-08 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
