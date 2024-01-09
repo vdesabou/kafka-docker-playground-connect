@@ -93,4 +93,4 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | neo4j-kafka-connect-neo4j | 5.0.3 | Apache License, Version 2.0 | Neo4j, Inc. | 2023-10-10 | [documentation](https://neo4j.com/docs/kafka/quickstart-connect/) |
 | snowflakeinc-snowflake-kafka-connector | 2.1.2 | Apache License, Version 2.0 | Snowflake, Inc. | 2023-12-04 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.1.1 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
-| wepay-kafka-connect-bigquery | 2.5.3 | Apache License 2.0 | WePay | 2023-12-05 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.5.4 | Apache License 2.0 | WePay | 2024-01-09 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
