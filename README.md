@@ -58,7 +58,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-marketo | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-03 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-30 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.11.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-25 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.11.1 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-02 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-03 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
