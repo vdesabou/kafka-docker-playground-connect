@@ -1,7 +1,5 @@
 # kafka-docker-playground-connect ![CI](https://github.com/vdesabou/kafka-docker-playground-connect/workflows/CI/badge.svg?branch=master)
 
-Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground) repository
-
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
 | confluentinc-connect-transforms | 1.4.4 | Confluent Software License | Confluent, Inc. | 2023-10-09 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
@@ -22,7 +20,7 @@ Create Kafka Connect image required for [vdesabou/kafka-docker-playground](https
 | confluentinc-kafka-connect-azure-functions | 2.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-04 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
 | confluentinc-kafka-connect-azure-service-bus | 1.2.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-22 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
-| confluentinc-kafka-connect-azure-sql-dw | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-14 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
+| confluentinc-kafka-connect-azure-sql-dw | 1.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-16 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
 | confluentinc-kafka-connect-cassandra | 2.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-27 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-11 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-24 | [documentation](https://docs.confluent.io/kafka-connect-databricks-delta-lake-sink/current/overview.html) |
