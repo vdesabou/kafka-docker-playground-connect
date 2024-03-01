@@ -13,7 +13,7 @@
 | confluentinc-kafka-connect-aws-lambda | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-29 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-16 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage | 1.6.20 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-05 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
-| confluentinc-kafka-connect-azure-blob-storage-source | 2.5.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
+| confluentinc-kafka-connect-azure-blob-storage-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
 | confluentinc-kafka-connect-azure-data-lake-gen1-storage | 1.6.20 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-05 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen1-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage | 1.6.20 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-05 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-event-hubs | 2.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-18 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
@@ -35,13 +35,13 @@
 | confluentinc-kafka-connect-gcp-pubsub | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-19 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-18 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 10.1.8 | Confluent Software Evaluation License | Confluent, Inc. | 2023-11-28 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
-| confluentinc-kafka-connect-gcs-source | 2.5.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
+| confluentinc-kafka-connect-gcs-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-05 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-22 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.2.6 | Confluent Community License | Confluent, Inc. | 2024-01-29 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
-| confluentinc-kafka-connect-hdfs2-source | 2.5.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
+| confluentinc-kafka-connect-hdfs2-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.1.29 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-30 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
-| confluentinc-kafka-connect-hdfs3-source | 2.5.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
+| confluentinc-kafka-connect-hdfs3-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.5 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-17 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 12.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-07 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-06 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
@@ -64,7 +64,7 @@
 | confluentinc-kafka-connect-rabbitmq-sink | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-12 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
 | confluentinc-kafka-connect-s3 | 10.5.8 | Confluent Community License | Confluent, Inc. | 2024-02-23 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
-| confluentinc-kafka-connect-s3-source | 2.5.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
+| confluentinc-kafka-connect-s3-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
 | confluentinc-kafka-connect-salesforce | 2.0.15 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-08 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 2.0.15 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-08 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.5.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
@@ -86,7 +86,7 @@
 | debezium-debezium-connector-sqlserver | 2.2.1 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.5 | Confluent Software Evaluation License | Jeremy Custenborder | 2023-08-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.14.0 | MIT License | Microsoft Corporation | 2024-02-28 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.14.1 | MIT License | Microsoft Corporation | 2024-02-29 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.11.2 | The Apache License, Version 2.0 | MongoDB | 2024-02-07 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.0.3 | Apache License, Version 2.0 | Neo4j, Inc. | 2023-10-10 | [documentation](https://neo4j.com/docs/kafka/quickstart-connect/) |
 | snowflakeinc-snowflake-kafka-connector | 2.2.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2024-02-06 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
