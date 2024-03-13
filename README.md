@@ -86,7 +86,7 @@
 | debezium-debezium-connector-sqlserver | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.5 | Confluent Software Evaluation License | Jeremy Custenborder | 2023-08-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.14.1 | MIT License | Microsoft Corporation | 2024-02-29 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.14.2 | MIT License | Microsoft Corporation | 2024-03-12 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.11.2 | The Apache License, Version 2.0 | MongoDB | 2024-02-07 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.0.3 | Apache License, Version 2.0 | Neo4j, Inc. | 2023-10-10 | [documentation](https://neo4j.com/docs/kafka/quickstart-connect/) |
 | snowflakeinc-snowflake-kafka-connector | 2.2.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2024-02-06 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
