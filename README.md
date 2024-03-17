@@ -2,7 +2,7 @@
 
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
-| confluentinc-connect-transforms | 1.4.4 | Confluent Software License | Confluent, Inc. | 2023-10-09 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
+| confluentinc-connect-transforms | 1.4.5 | Confluent Software License | Confluent, Inc. | 2024-03-17 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
 | confluentinc-kafka-connect-activemq | 12.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-07 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 2.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-12-06 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.1-preview | Confluent Software Evaluation License | Confluent, Inc. | 2022-08-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
