@@ -10,7 +10,7 @@
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-14 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-dynamodb | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-22 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
-| confluentinc-kafka-connect-aws-lambda | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-29 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
+| confluentinc-kafka-connect-aws-lambda | 2.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-08-16 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage | 1.6.21 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-15 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage-source | 2.5.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-01 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
@@ -26,7 +26,7 @@
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-24 | [documentation](https://docs.confluent.io/kafka-connect-databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.6.5 | Apache License 2.0 | Confluent, Inc. | 2024-03-15 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
-| confluentinc-kafka-connect-elasticsearch | 14.0.12 | Confluent Community License | Confluent, Inc. | 2023-12-06 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
+| confluentinc-kafka-connect-elasticsearch | 14.0.13 | Confluent Community License | Confluent, Inc. | 2024-03-19 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-14 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.6-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-17 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-18 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
