@@ -38,7 +38,7 @@
 | confluentinc-kafka-connect-gcs-source | 2.5.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-26 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2023-05-05 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-20 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
-| confluentinc-kafka-connect-hdfs | 10.2.6 | Confluent Community License | Confluent, Inc. | 2024-01-29 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
+| confluentinc-kafka-connect-hdfs | 10.2.7 | Confluent Community License | Confluent, Inc. | 2024-04-01 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 2.5.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-26 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.1.30 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-21 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.5.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-26 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
@@ -60,8 +60,8 @@
 | confluentinc-kafka-connect-pagerduty | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-09-25 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-22 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
-| confluentinc-kafka-connect-rabbitmq | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-12 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
-| confluentinc-kafka-connect-rabbitmq-sink | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-12 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
+| confluentinc-kafka-connect-rabbitmq | 1.7.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-01 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
+| confluentinc-kafka-connect-rabbitmq-sink | 1.7.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-01 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
 | confluentinc-kafka-connect-s3 | 10.5.9 | Confluent Community License | Confluent, Inc. | 2024-03-14 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 2.5.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-26 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
