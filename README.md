@@ -65,8 +65,8 @@
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
 | confluentinc-kafka-connect-s3 | 10.5.10 | Confluent Community License | Confluent, Inc. | 2024-04-03 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 2.5.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-26 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
-| confluentinc-kafka-connect-salesforce | 2.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-04 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
-| confluentinc-kafka-connect-salesforce-bulk-api | 2.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-04 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
+| confluentinc-kafka-connect-salesforce | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-07 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
+| confluentinc-kafka-connect-salesforce-bulk-api | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-07 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
 | confluentinc-kafka-connect-sftp | 3.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-11 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
