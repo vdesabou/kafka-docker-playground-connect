@@ -28,7 +28,7 @@
 | confluentinc-kafka-connect-datagen | 0.6.5 | Apache License 2.0 | Confluent, Inc. | 2024-03-15 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 14.0.14 | Confluent Community License | Confluent, Inc. | 2024-03-20 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-14 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
-| confluentinc-kafka-connect-ftps | 1.0.6-preview | Confluent Software Evaluation License | Confluent, Inc. | 2023-10-17 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
+| confluentinc-kafka-connect-ftps | 1.0.7-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-20 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2023-11-17 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-28 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
