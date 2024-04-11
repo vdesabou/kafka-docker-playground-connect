@@ -68,7 +68,7 @@
 | confluentinc-kafka-connect-salesforce | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-07 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-07 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.5.1 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
-| confluentinc-kafka-connect-sftp | 3.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-11 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
+| confluentinc-kafka-connect-sftp | 3.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-11 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-13 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
 | confluentinc-kafka-connect-solace-sink | 2.1.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-23 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
 | confluentinc-kafka-connect-solace-source | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-16 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
