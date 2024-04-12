@@ -27,7 +27,7 @@
 | confluentinc-kafka-connect-datadog-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.6.5 | Apache License 2.0 | Confluent, Inc. | 2024-03-15 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 14.0.14 | Confluent Community License | Confluent, Inc. | 2024-03-20 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
-| confluentinc-kafka-connect-firebase | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-14 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
+| confluentinc-kafka-connect-firebase | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-12 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.7-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-20 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-09 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
@@ -79,7 +79,7 @@
 | confluentinc-kafka-connect-tibco-source | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-03-16 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.1 | Confluent Software Evaluation License | Confluent, Inc | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-04-26 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.2.1 | Apache License 2.0 | Couchbase, Inc. | 2024-02-26 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.2.2 | Apache License 2.0 | Couchbase, Inc. | 2024-04-11 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 2.5.3 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
