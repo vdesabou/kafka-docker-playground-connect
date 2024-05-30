@@ -56,7 +56,7 @@
 | confluentinc-kafka-connect-marketo | 1.0.4-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-07 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-01-30 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-21 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.12.1 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-18 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.12.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-30 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-17 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-07 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
@@ -84,7 +84,7 @@
 | debezium-debezium-connector-mysql | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 2.5.4 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 2.5.4 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
-| jcustenborder-kafka-connect-redis | 0.0.6 | Confluent Software Evaluation License | Jeremy Custenborder | 2024-04-03 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
+| jcustenborder-kafka-connect-redis | 0.0.7 | Confluent Software Evaluation License | Jeremy Custenborder | 2024-05-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.15.0 | MIT License | Microsoft Corporation | 2024-04-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.12.0 | The Apache License, Version 2.0 | MongoDB | 2024-05-13 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
