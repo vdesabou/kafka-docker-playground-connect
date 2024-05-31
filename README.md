@@ -23,7 +23,7 @@
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-15 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
 | confluentinc-kafka-connect-cassandra | 2.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-17 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-06 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
-| confluentinc-kafka-connect-databricks-delta-lake | 1.0.16 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-24 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
+| confluentinc-kafka-connect-databricks-delta-lake | 1.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-31 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.6.5 | Apache License 2.0 | Confluent, Inc. | 2024-03-15 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 14.0.17 | Confluent Community License | Confluent, Inc. | 2024-05-21 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
