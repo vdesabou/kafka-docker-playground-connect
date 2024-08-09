@@ -38,7 +38,7 @@
 | confluentinc-kafka-connect-gcs-source | 2.6.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-14 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-28 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.20 | Confluent Software Evaluation License | Confluent, Inc. | 2024-06-06 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
-| confluentinc-kafka-connect-hdfs | 10.2.9 | Confluent Community License | Confluent, Inc. | 2024-07-05 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
+| confluentinc-kafka-connect-hdfs | 10.2.10 | Confluent Community License | Confluent, Inc. | 2024-08-09 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 2.6.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-14 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.1.35 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-31 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.6.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-14 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
