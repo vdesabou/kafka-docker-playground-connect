@@ -12,10 +12,10 @@
 | confluentinc-kafka-connect-aws-dynamodb | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-06-20 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 2.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2024-06-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-24 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
-| confluentinc-kafka-connect-azure-blob-storage | 1.6.23 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-17 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
+| confluentinc-kafka-connect-azure-blob-storage | 1.6.24 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage-source | 2.6.5 | Confluent Software Evaluation License | Confluent, Inc. | 2024-08-23 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
-| confluentinc-kafka-connect-azure-data-lake-gen1-storage | 1.6.23 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-17 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen1-sink/current/index.html) |
-| confluentinc-kafka-connect-azure-data-lake-gen2-storage | 1.6.23 | Confluent Software Evaluation License | Confluent, Inc. | 2024-07-17 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
+| confluentinc-kafka-connect-azure-data-lake-gen1-storage | 1.6.24 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen1-sink/current/index.html) |
+| confluentinc-kafka-connect-azure-data-lake-gen2-storage | 1.6.24 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-event-hubs | 2.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-06-21 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
 | confluentinc-kafka-connect-azure-functions | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-06 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2024-02-04 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
@@ -89,6 +89,6 @@
 | microsoftcorporation-kafka-connect-cosmos | 1.15.0 | MIT License | Microsoft Corporation | 2024-04-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.13.0 | The Apache License, Version 2.0 | MongoDB | 2024-06-03 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.1.1 | null | Neo4j, Inc. | 2024-09-09 | [documentation](https://neo4j.com/docs/kafka) |
-| snowflakeinc-snowflake-kafka-connector | 2.4.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2024-08-15 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
+| snowflakeinc-snowflake-kafka-connector | 2.4.1 | Apache License, Version 2.0 | Snowflake, Inc. | 2024-09-19 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.2.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | wepay-kafka-connect-bigquery | 2.5.6 | Apache License 2.0 | WePay | 2024-03-28 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
