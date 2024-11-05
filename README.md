@@ -2,7 +2,7 @@
 
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
-| confluentinc-connect-transforms | 1.5.0 | Confluent Software License | Confluent, Inc. | 2024-08-16 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
+| confluentinc-connect-transforms | 1.6.0 | Confluent Software License | Confluent, Inc. | 2024-11-05 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
 | confluentinc-kafka-connect-activemq | 12.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 2.1.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
@@ -29,7 +29,7 @@
 | confluentinc-kafka-connect-elasticsearch | 14.1.2 | Confluent Community License | Confluent, Inc. | 2024-10-29 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-16 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.11-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
-| confluentinc-kafka-connect-gcp-bigtable | 2.0.24 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-21 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
+| confluentinc-kafka-connect-gcp-bigtable | 2.0.25 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-05 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.3.0 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-03 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-25 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.2.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-08-21 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
@@ -37,7 +37,7 @@
 | confluentinc-kafka-connect-gcs | 10.1.13 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-05 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 2.6.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-24 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-24 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
-| confluentinc-kafka-connect-hbase | 2.0.24 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-21 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
+| confluentinc-kafka-connect-hbase | 2.0.25 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-05 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.2.12 | Confluent Community License | Confluent, Inc. | 2024-11-03 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 2.6.7 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-24 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.2.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-24 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
@@ -56,7 +56,7 @@
 | confluentinc-kafka-connect-marketo | 1.0.4-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-07 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-06-28 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
-| confluentinc-kafka-connect-oracle-cdc | 2.14.2 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
+| confluentinc-kafka-connect-oracle-cdc | 2.14.3 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-05 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2024-04-17 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.0 | Confluent Software Evaluation License | Confluent, Inc. | 2023-07-27 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
