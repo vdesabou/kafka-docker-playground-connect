@@ -47,7 +47,7 @@
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-24 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-17 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
 | confluentinc-kafka-connect-jdbc | 10.8.0 | Confluent Community License | Confluent, Inc. | 2024-09-30 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
-| confluentinc-kafka-connect-jira | 1.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-18 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
+| confluentinc-kafka-connect-jira | 1.2.12 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-22 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 12.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-21 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.14 | Confluent Software Evaluation License | Confluent, Inc. | 2024-09-24 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
 | confluentinc-kafka-connect-kinesis | 1.3.27 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
@@ -79,14 +79,14 @@
 | confluentinc-kafka-connect-tibco-source | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-05-15 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc | 2024-05-07 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2023-04-26 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.2.4 | Apache License 2.0 | Couchbase, Inc. | 2024-10-30 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.2.6 | Apache License 2.0 | Couchbase, Inc. | 2024-11-21 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 2.4.2 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 2.5.4 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 2.5.4 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.8 | Confluent Software Evaluation License | Jeremy Custenborder | 2024-09-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.65 | Apache License 2.0 | Jeremy Custenborder | 2022-10-17 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
-| microsoftcorporation-kafka-connect-cosmos | 1.15.0 | MIT License | Microsoft Corporation | 2024-04-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
+| microsoftcorporation-kafka-connect-cosmos | 1.16.0 | MIT License | Microsoft Corporation | 2024-11-21 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 1.13.0 | The Apache License, Version 2.0 | MongoDB | 2024-06-03 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.1.5 | null | Neo4j, Inc. | 2024-10-29 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 2.5.0 | Apache License, Version 2.0 | Snowflake, Inc. | 2024-10-31 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
