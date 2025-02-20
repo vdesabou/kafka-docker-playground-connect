@@ -3,7 +3,7 @@
 | connector  | version | license | owner | release date | documentation |
 |---|---|---|---|---|---|
 | confluentinc-connect-transforms | 1.6.1 | Confluent Software License | Confluent, Inc. | 2024-11-08 | [documentation](https://docs.confluent.io/current/connect/transforms/index.html) |
-| confluentinc-kafka-connect-activemq | 12.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-21 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
+| confluentinc-kafka-connect-activemq | 12.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-19 | [documentation](https://docs.confluent.io/kafka-connect-activemq-source/current/index.html) |
 | confluentinc-kafka-connect-activemq-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 2.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2025-01-10 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
@@ -43,12 +43,12 @@
 | confluentinc-kafka-connect-hdfs3 | 1.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-14 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.6.10 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-12 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-12-10 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
-| confluentinc-kafka-connect-ibmmq | 12.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-21 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
+| confluentinc-kafka-connect-ibmmq | 12.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-19 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-17 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
 | confluentinc-kafka-connect-jdbc | 10.8.0 | Confluent Community License | Confluent, Inc. | 2024-09-30 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
 | confluentinc-kafka-connect-jira | 1.2.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-01-15 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
-| confluentinc-kafka-connect-jms | 12.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-11-21 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
+| confluentinc-kafka-connect-jms | 12.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-19 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
 | confluentinc-kafka-connect-kinesis | 1.3.27 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-18 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
