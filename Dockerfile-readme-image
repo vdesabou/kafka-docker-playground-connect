@@ -59,7 +59,6 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-blob-stor
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-blob-storage-source:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-search:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-service-bus:latest
-RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-data-lake-gen1-storage:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-data-lake-gen2-storage:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-event-hubs:latest
 RUN confluent-hub install --no-prompt confluentinc/kafka-connect-azure-functions:latest
