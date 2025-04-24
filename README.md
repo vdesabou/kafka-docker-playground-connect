@@ -49,7 +49,7 @@
 | confluentinc-kafka-connect-jira | 1.2.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-01-15 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 12.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-18 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
-| confluentinc-kafka-connect-kinesis | 1.3.27 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
+| confluentinc-kafka-connect-kinesis | 1.3.28 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-24 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-18 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.5-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-01-10 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
@@ -86,7 +86,7 @@
 | jcustenborder-kafka-connect-redis | 0.0.8 | Confluent Software Evaluation License | Jeremy Custenborder | 2024-09-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.66 | Apache License 2.0 | Jeremy Custenborder | 2024-12-09 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.17.0 | MIT License | Microsoft Corporation | 2025-02-25 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
-| mongodb-kafka-connect-mongodb | 1.15.0 | The Apache License, Version 2.0 | MongoDB | 2025-01-17 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
+| mongodb-kafka-connect-mongodb | 1.16.0 | The Apache License, Version 2.0 | MongoDB | 2025-04-11 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.1.11 | null | Neo4j, Inc. | 2025-02-24 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 3.1.3 | Apache License, Version 2.0 | Snowflake, Inc. | 2025-04-08 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
 | splunk-kafka-connect-splunk | 2.2.2 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
