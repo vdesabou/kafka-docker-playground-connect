@@ -41,7 +41,7 @@
 | confluentinc-kafka-connect-hdfs2-source | 2.6.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-04 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-28 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 2.6.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-04 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
-| confluentinc-kafka-connect-http | 1.7.8 | Confluent Software Evaluation License | Confluent, Inc. | 2024-12-10 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
+| confluentinc-kafka-connect-http | 1.7.9 | Confluent Software Evaluation License | Confluent, Inc. | 2025-05-08 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 12.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-18 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
 | confluentinc-kafka-connect-ibmmq-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-17 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
