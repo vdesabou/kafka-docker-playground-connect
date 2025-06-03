@@ -82,7 +82,7 @@
 | debezium-debezium-connector-mongodb | 3.0.8 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 3.0.8 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 3.0.8 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
-| debezium-debezium-connector-sqlserver | 2.5.4 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
+| debezium-debezium-connector-sqlserver | 3.0.8 | Apache 2.0 | Debezium Community | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.8 | Confluent Software Evaluation License | Jeremy Custenborder | 2024-09-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.66 | Apache License 2.0 | Jeremy Custenborder | 2024-12-09 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.17.0 | MIT License | Microsoft Corporation | 2025-02-25 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
