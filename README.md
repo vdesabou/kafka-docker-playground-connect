@@ -49,7 +49,7 @@
 | confluentinc-kafka-connect-jira | 1.2.14 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-30 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 12.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-18 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-02-06 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
-| confluentinc-kafka-connect-kinesis | 1.3.28 | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-24 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
+| confluentinc-kafka-connect-kinesis | 1.3.29 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-19 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-18 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.6-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-12 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
