@@ -52,7 +52,7 @@
 | confluentinc-kafka-connect-kinesis | 1.3.29 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-19 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-25 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
-| confluentinc-kafka-connect-marketo | 1.0.6-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-12 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
+| confluentinc-kafka-connect-marketo | 1.0.7-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-07-14 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-26 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
 | confluentinc-kafka-connect-omnisci | 1.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2025-07-02 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
 | confluentinc-kafka-connect-oracle-cdc | 2.14.9 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-10 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
