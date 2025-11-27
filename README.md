@@ -18,9 +18,9 @@
 | confluentinc-kafka-connect-azure-event-hubs | 2.0.15 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-20 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
 | confluentinc-kafka-connect-azure-functions | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-17 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-16 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
-| confluentinc-kafka-connect-azure-service-bus | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2025-09-10 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
+| confluentinc-kafka-connect-azure-service-bus | 1.2.16 | Confluent Software Evaluation License | Confluent, Inc. | 2025-09-04 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-21 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
-| confluentinc-kafka-connect-cassandra | 2.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-10 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
+| confluentinc-kafka-connect-cassandra | 2.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-27 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.8 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-26 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.26 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-28 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-09-16 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
@@ -31,7 +31,7 @@
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.34 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-31 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.3.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-08-26 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.2.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-25 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
-| confluentinc-kafka-connect-gcp-pubsub | 1.2.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
+| confluentinc-kafka-connect-gcp-pubsub | 1.2.14 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-27 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-10 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 10.3.6 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-07 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 3.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-13 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
