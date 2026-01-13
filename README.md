@@ -7,7 +7,7 @@
 | confluentinc-kafka-connect-activemq-sink | 2.1.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 2.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-08 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-09 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
+| confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-13 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 2.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-08 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-dynamodb | 1.5.2 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-02 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 3.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-04 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
@@ -25,7 +25,7 @@
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.26 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-28 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-08 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.6.8 | Apache License 2.0 | Confluent, Inc. | 2025-10-15 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
-| confluentinc-kafka-connect-elasticsearch | 15.1.0 | Confluent Community License | Confluent, Inc. | 2025-11-13 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
+| confluentinc-kafka-connect-elasticsearch | 15.1.1 | Confluent Community License | Confluent, Inc. | 2026-01-13 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
 | confluentinc-kafka-connect-firebase | 1.2.10 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-31 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.14-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.34 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-31 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
@@ -49,7 +49,7 @@
 | confluentinc-kafka-connect-jira | 1.3.1 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-21 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 13.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-21 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.1.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-12 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
-| confluentinc-kafka-connect-kinesis | 2.0.1 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-03 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
+| confluentinc-kafka-connect-kinesis | 2.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-13 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
 | confluentinc-kafka-connect-kudu | 1.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2025-06-25 | [documentation](https://docs.confluent.io/kafka-connect-kudu/current/index.html) |
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.7-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-07-14 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
