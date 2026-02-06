@@ -18,7 +18,7 @@
 | confluentinc-kafka-connect-azure-event-hubs | 2.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
 | confluentinc-kafka-connect-azure-functions | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2025-11-17 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-16 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
-| confluentinc-kafka-connect-azure-service-bus | 1.2.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
+| confluentinc-kafka-connect-azure-service-bus | 1.2.18 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-06 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-30 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
 | confluentinc-kafka-connect-cassandra | 2.0.14 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-16 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
@@ -39,7 +39,7 @@
 | confluentinc-kafka-connect-hbase | 2.0.35 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.2.17 | Confluent Community License | Confluent, Inc. | 2025-07-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 3.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-29 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
-| confluentinc-kafka-connect-hdfs3 | 3.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-04 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
+| confluentinc-kafka-connect-hdfs3 | 3.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-06 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 3.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-29 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-29 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 13.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-16 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
@@ -68,7 +68,7 @@
 | confluentinc-kafka-connect-salesforce-bulk-api | 3.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-03 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
 | confluentinc-kafka-connect-servicenow | 2.6.1 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-15 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-servicenow/) |
 | confluentinc-kafka-connect-sftp | 3.2.18 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-11 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
-| confluentinc-kafka-connect-snmp | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc. | 2025-07-02 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
+| confluentinc-kafka-connect-snmp | 1.3.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-06 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
 | confluentinc-kafka-connect-solace-sink | 2.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-23 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
 | confluentinc-kafka-connect-solace-source | 1.2.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-splunk-source | 1.1.7 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-02 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
