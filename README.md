@@ -62,7 +62,7 @@
 | confluentinc-kafka-connect-rabbitmq | 1.8.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-11 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
 | confluentinc-kafka-connect-rabbitmq-sink | 1.8.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-11 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
-| confluentinc-kafka-connect-s3 | 12.1.0 | Confluent Community License | Confluent, Inc. | 2026-02-27 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
+| confluentinc-kafka-connect-s3 | 12.1.1 | Confluent Community License | Confluent, Inc. | 2026-03-02 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 3.0.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-24 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
 | confluentinc-kafka-connect-salesforce | 3.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-03 | [documentation](https://docs.confluent.io/kafka-connect-salesforce/current/index.html) |
 | confluentinc-kafka-connect-salesforce-bulk-api | 3.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-03 | [documentation](https://docs.confluent.io/kafka-connect-salesforce-bulk-api/current/index.html) |
