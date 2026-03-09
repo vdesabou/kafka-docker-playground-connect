@@ -9,7 +9,7 @@
 | confluentinc-kafka-connect-appdynamics-metrics | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-04 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-04 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-dynamodb | 1.5.2 | Confluent Software Evaluation License | Confluent, Inc. | 2025-12-02 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
+| confluentinc-kafka-connect-aws-dynamodb | 1.5.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-09 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 3.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-18 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage | 2.1.1 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-27 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
