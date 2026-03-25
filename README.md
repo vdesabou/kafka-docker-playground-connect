@@ -7,7 +7,7 @@
 | confluentinc-kafka-connect-activemq-sink | 2.2.0 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-23 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-activemq/sink) |
 | confluentinc-kafka-connect-amps | 1.0.3-preview | Confluent Software Evaluation License | Confluent, Inc. | 2024-10-14 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-amps/) |
 | confluentinc-kafka-connect-appdynamics-metrics | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-04 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
+| confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-25 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 2.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-04 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-dynamodb | 1.5.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-10 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 3.0.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-18 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
@@ -89,5 +89,5 @@
 | mongodb-kafka-connect-mongodb | 2.0.5 | The Apache License, Version 2.0 | MongoDB | 2026-03-10 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.3.0 | null | Neo4j, Inc. | 2026-03-09 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 3.5.3 | Apache License, Version 2.0 | Snowflake, Inc. | 2026-01-27 | [documentation](https://docs.snowflake.net/manuals/user-guide/kafka-connector.html) |
-| splunk-kafka-connect-splunk | 2.2.4 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
+| splunk-kafka-connect-splunk | 2.2.5 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | wepay-kafka-connect-bigquery | 2.5.9 | Apache License 2.0 | WePay | 2026-03-23 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
