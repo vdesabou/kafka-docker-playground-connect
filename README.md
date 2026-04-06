@@ -9,7 +9,7 @@
 | confluentinc-kafka-connect-appdynamics-metrics | 2.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-30 | [documentation](https://docs.confluent.io/kafka-connect-appdynamics-metrics/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-logs | 2.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-25 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-logs/current/index.html) |
 | confluentinc-kafka-connect-aws-cloudwatch-metrics | 2.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-30 | [documentation](https://docs.confluent.io/kafka-connect-aws-cloudwatch-metrics/current/index.html) |
-| confluentinc-kafka-connect-aws-dynamodb | 1.5.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-10 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
+| confluentinc-kafka-connect-aws-dynamodb | 1.5.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-06 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 3.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-27 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-19 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-18 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
@@ -39,7 +39,7 @@
 | confluentinc-kafka-connect-hbase | 2.0.37 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-16 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.2.17 | Confluent Community License | Confluent, Inc. | 2025-07-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 3.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-27 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
-| confluentinc-kafka-connect-hdfs3 | 3.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
+| confluentinc-kafka-connect-hdfs3 | 3.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-06 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 3.0.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-27 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-29 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 13.0.7 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-01 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
