@@ -15,7 +15,7 @@
 | confluentinc-kafka-connect-azure-blob-storage | 2.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-24 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage-source | 3.0.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-10 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
 | confluentinc-kafka-connect-azure-data-lake-gen2-storage | 2.2.1 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-24 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
-| confluentinc-kafka-connect-azure-event-hubs | 2.0.19 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-14 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
+| confluentinc-kafka-connect-azure-event-hubs | 2.0.20 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-04 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
 | confluentinc-kafka-connect-azure-functions | 2.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-20 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-10 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
 | confluentinc-kafka-connect-azure-service-bus | 1.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-04-13 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
@@ -89,5 +89,5 @@
 | mongodb-kafka-connect-mongodb | 2.1.0 | The Apache License, Version 2.0 | MongoDB | 2026-03-24 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
 | neo4j-kafka-connect-neo4j | 5.3.0 | null | Neo4j, Inc. | 2026-03-09 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 4.0.0 | Apache License, Version 2.0 | Snowflake Inc. | 2026-04-17 | [documentation](https://docs.snowflake.com/en/connectors/kafkahp/about) |
-| splunk-kafka-connect-splunk | 2.2.5 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
+| splunk-kafka-connect-splunk | 2.2.6 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | wepay-kafka-connect-bigquery | 2.5.10 | Apache License 2.0 | WePay | 2026-03-27 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
