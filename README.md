@@ -54,7 +54,7 @@
 | confluentinc-kafka-connect-maprdb | 1.1.3 | Confluent Software Evaluation License | Confluent, Inc | 2021-03-11 | [documentation](https://docs.confluent.io/kafka-connect-maprdb/current/index.html) |
 | confluentinc-kafka-connect-marketo | 1.0.7-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-07-14 | [documentation](https://docs.confluent.io/kafka-connect-marketo/current/index.html) |
 | confluentinc-kafka-connect-mqtt | 1.7.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-18 | [documentation](https://docs.confluent.io/kafka-connect-mqtt/current/index.html) |
-| confluentinc-kafka-connect-omnisci | 1.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2025-10-09 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
+| confluentinc-kafka-connect-omnisci | 1.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-07 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-omnisci/) |
 | confluentinc-kafka-connect-oracle-cdc | 2.15.1 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-11 | [documentation](https://docs.confluent.io/kafka-connect-oracle-cdc/current/) |
 | confluentinc-kafka-connect-pagerduty | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-09-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.23 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-25 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
