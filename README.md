@@ -83,7 +83,7 @@
 | debezium-debezium-connector-mysql | 3.2.6-1 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 3.2.6-2 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 3.2.6-1 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
-| jcustenborder-kafka-connect-redis | 0.0.9 | Confluent Software Evaluation License | Jeremy Custenborder | 2026-04-01 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
+| jcustenborder-kafka-connect-redis | 0.0.10 | Confluent Software Evaluation License | Jeremy Custenborder | 2026-06-10 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.66 | Apache License 2.0 | Jeremy Custenborder | 2024-12-09 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.18.0 | MIT License | Microsoft Corporation | 2025-11-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 3.0.0 | The Apache License, Version 2.0 | MongoDB | 2026-06-01 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
