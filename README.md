@@ -12,9 +12,9 @@
 | confluentinc-kafka-connect-aws-dynamodb | 1.5.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-28 | [documentation](https://docs.confluent.io/kafka-connect-aws-dynamodb/current/index.html) |
 | confluentinc-kafka-connect-aws-lambda | 3.0.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-02 | [documentation](https://docs.confluent.io/kafka-connect-aws-lambda/current/index.html) |
 | confluentinc-kafka-connect-aws-redshift | 1.2.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-16 | [documentation](https://docs.confluent.io/kafka-connect-aws-redshift/current/index.html) |
-| confluentinc-kafka-connect-azure-blob-storage | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-15 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
+| confluentinc-kafka-connect-azure-blob-storage | 2.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-blob-storage-source | 3.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-14 | [documentation](https://docs.confluent.io/kafka-connect-azure-blob-storage-source/current/index.html) |
-| confluentinc-kafka-connect-azure-data-lake-gen2-storage | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-15 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
+| confluentinc-kafka-connect-azure-data-lake-gen2-storage | 2.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-19 | [documentation](https://docs.confluent.io/kafka-connect-azure-data-lake-gen2-sink/current/index.html) |
 | confluentinc-kafka-connect-azure-event-hubs | 2.1.2 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-07 | [documentation](https://docs.confluent.io/kafka-connect-azure-event-hubs/current/index.html) |
 | confluentinc-kafka-connect-azure-functions | 2.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-05 | [documentation](https://docs.confluent.io/kafka-connect-azure-functions/current/index.html) |
 | confluentinc-kafka-connect-azure-search | 1.1.19 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-25 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
@@ -33,7 +33,7 @@
 | confluentinc-kafka-connect-gcp-functions | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-13 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
 | confluentinc-kafka-connect-gcp-pubsub | 1.2.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-16 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.2.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-14 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
-| confluentinc-kafka-connect-gcs | 11.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-14 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
+| confluentinc-kafka-connect-gcs | 11.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-19 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 3.0.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-05-14 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-03-23 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.40 | Confluent Software Evaluation License | Confluent, Inc. | 2026-06-05 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
