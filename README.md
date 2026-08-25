@@ -78,7 +78,7 @@
 | confluentinc-kafka-connect-tibco-source | 1.2.15 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-24 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc | 2025-10-22 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.3.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-03 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.3.6 | Apache License 2.0 | Couchbase, Inc. | 2026-05-26 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.3.7 | Apache License 2.0 | Couchbase, Inc. | 2026-08-19 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
