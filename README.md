@@ -59,8 +59,8 @@
 | confluentinc-kafka-connect-pagerduty | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2025-09-12 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-pagerduty/) |
 | confluentinc-kafka-connect-pivotal-gemfire | 1.0.25 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-05 | [documentation](https://docs.confluent.io/kafka-connect-pivotal-gemfire/current/index.html) |
 | confluentinc-kafka-connect-prometheus-metrics | 2.0.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-18 | [documentation](https://docs.confluent.io/kafka-connect-prometheus-metrics/current/index.html) |
-| confluentinc-kafka-connect-rabbitmq | 1.8.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-07-19 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
-| confluentinc-kafka-connect-rabbitmq-sink | 1.8.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-07-19 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
+| confluentinc-kafka-connect-rabbitmq | 1.8.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-28 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-source/current/index.html) |
+| confluentinc-kafka-connect-rabbitmq-sink | 1.8.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-28 | [documentation](https://docs.confluent.io/kafka-connect-rabbitmq-sink/current/index.html) |
 | confluentinc-kafka-connect-replicator | 7.3.2 | Confluent Software Evaluation License | Confluent, Inc. | 2023-02-25 | [documentation](https://docs.confluent.io/kafka-connect-replicator/current/index.html) |
 | confluentinc-kafka-connect-s3 | 12.1.10 | Confluent Community License | Confluent, Inc. | 2026-08-11 | [documentation](https://docs.confluent.io/kafka-connect-s3-sink/current/index.html) |
 | confluentinc-kafka-connect-s3-source | 3.1.6 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-13 | [documentation](https://docs.confluent.io/kafka-connect-s3-source/current/index.html) |
