@@ -31,7 +31,7 @@
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.45 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-03 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.3.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-08-26 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.2.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-03 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
-| confluentinc-kafka-connect-gcp-pubsub | 1.2.25 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-11 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
+| confluentinc-kafka-connect-gcp-pubsub | 1.2.26 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-28 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.2.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-04 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 11.0.20 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-25 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 3.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
