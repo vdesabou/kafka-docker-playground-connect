@@ -20,18 +20,18 @@
 | confluentinc-kafka-connect-azure-search | 1.1.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-13 | [documentation](https://docs.confluent.io/kafka-connect-azure-search/current/index.html) |
 | confluentinc-kafka-connect-azure-service-bus | 1.3.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-08 | [documentation](https://docs.confluent.io/kafka-connect-azure-servicebus/current/index.html) |
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-30 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
-| confluentinc-kafka-connect-cassandra | 2.0.20 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-16 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
+| confluentinc-kafka-connect-cassandra | 2.0.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-07 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
 | confluentinc-kafka-connect-databricks-delta-lake | 1.0.33 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-18 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.7.2 | Apache License 2.0 | Confluent, Inc. | 2026-07-21 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 16.0.0 | Confluent Community License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
-| confluentinc-kafka-connect-firebase | 1.2.21 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-15 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
+| confluentinc-kafka-connect-firebase | 1.2.22 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-07 | [documentation](https://docs.confluent.io/kafka-connect-firebase/current/index.html) |
 | confluentinc-kafka-connect-ftps | 1.0.14-preview | Confluent Software Evaluation License | Confluent, Inc. | 2025-04-04 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ftps/) |
 | confluentinc-kafka-connect-gcp-bigtable | 2.0.45 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-03 | [documentation](https://docs.confluent.io/kafka-connect-gcp-bigtable/current/index.html) |
 | confluentinc-kafka-connect-gcp-dataproc-sink | 1.3.5 | Confluent Software Evaluation License | Confluent, Inc. | 2025-08-26 | [documentation](https://docs.confluent.io/kafka-connect-gcp-dataproc/current/index.html) |
 | confluentinc-kafka-connect-gcp-functions | 1.2.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-03 | [documentation](https://docs.confluent.io/kafka-connect-gcp-functions/current/index.html) |
-| confluentinc-kafka-connect-gcp-pubsub | 1.2.26 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-28 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
+| confluentinc-kafka-connect-gcp-pubsub | 1.2.27 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-07 | [documentation](https://docs.confluent.io/kafka-connect-gcp-pubsub/current/index.html) |
 | confluentinc-kafka-connect-gcp-spanner | 1.2.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-04 | [documentation](https://docs.confluent.io/kafka-connect-gcp-spanner/current/index.html) |
 | confluentinc-kafka-connect-gcs | 11.0.20 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-25 | [documentation](https://docs.confluent.io/kafka-connect-gcs-sink/current/) |
 | confluentinc-kafka-connect-gcs-source | 3.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
@@ -39,7 +39,7 @@
 | confluentinc-kafka-connect-hbase | 2.0.45 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-03 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
 | confluentinc-kafka-connect-hdfs | 10.2.17 | Confluent Community License | Confluent, Inc. | 2025-07-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 3.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
-| confluentinc-kafka-connect-hdfs3 | 3.0.22 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
+| confluentinc-kafka-connect-hdfs3 | 3.0.23 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-07 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 3.1.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
 | confluentinc-kafka-connect-http | 1.7.14 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-01 | [documentation](https://docs.confluent.io/kafka-connect-http/current/index.html) |
 | confluentinc-kafka-connect-ibmmq | 13.0.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-23 | [documentation](https://docs.confluent.io/kafka-connect-ibmmq-source/current/) |
@@ -79,15 +79,15 @@
 | confluentinc-kafka-connect-vertica | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc | 2025-10-22 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.3.11 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-03 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
 | couchbase-kafka-connect-couchbase | 4.3.8 | Apache License 2.0 | Couchbase, Inc. | 2026-09-15 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
-| debezium-debezium-connector-mongodb | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
-| debezium-debezium-connector-mysql | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
-| debezium-debezium-connector-postgresql | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
-| debezium-debezium-connector-sqlserver | 3.2.6-3 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
+| debezium-debezium-connector-mongodb | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
+| debezium-debezium-connector-mysql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
+| debezium-debezium-connector-postgresql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
+| debezium-debezium-connector-sqlserver | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
 | jcustenborder-kafka-connect-redis | 0.0.13 | Confluent Software Evaluation License | Jeremy Custenborder | 2026-09-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.66 | Apache License 2.0 | Jeremy Custenborder | 2024-12-09 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.18.0 | MIT License | Microsoft Corporation | 2025-11-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 3.1.0 | The Apache License, Version 2.0 | MongoDB | 2026-09-10 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
-| neo4j-kafka-connect-neo4j | 5.5.4 | null | Neo4j, Inc. | 2026-09-08 | [documentation](https://neo4j.com/docs/kafka) |
+| neo4j-kafka-connect-neo4j | 5.6.0 | null | Neo4j, Inc. | 2026-10-05 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 4.1.0 | Apache License, Version 2.0 | Snowflake Inc. | 2026-07-22 | [documentation](https://docs.snowflake.com/en/connectors/kafkahp/about) |
 | splunk-kafka-connect-splunk | 2.2.7 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
 | wepay-kafka-connect-bigquery | 2.5.11 | Apache License 2.0 | WePay | 2026-07-08 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
