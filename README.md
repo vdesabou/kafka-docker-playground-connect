@@ -37,7 +37,7 @@
 | confluentinc-kafka-connect-gcs-source | 3.1.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-13 | [documentation](https://docs.confluent.io/kafka-connect-gcs-source/current/overview.html) |
 | confluentinc-kafka-connect-github | 2.1.16 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-05 | [documentation](https://docs.confluent.io/kafka-connect-github/current/index.html) |
 | confluentinc-kafka-connect-hbase | 2.0.46 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-26 | [documentation](https://docs.confluent.io/kafka-connect-hbase/current/index.html) |
-| confluentinc-kafka-connect-hdfs | 10.2.17 | Confluent Community License | Confluent, Inc. | 2025-07-18 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
+| confluentinc-kafka-connect-hdfs | 10.2.18 | Confluent Community License | Confluent, Inc. | 2026-10-28 | [documentation](https://docs.confluent.io/kafka-connect-hdfs/current/index.html) |
 | confluentinc-kafka-connect-hdfs2-source | 3.1.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-13 | [documentation](https://docs.confluent.io/kafka-connect-hdfs2-source/current/index.html) |
 | confluentinc-kafka-connect-hdfs3 | 3.0.24 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-21 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-sink/current/index.html) |
 | confluentinc-kafka-connect-hdfs3-source | 3.1.10 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-13 | [documentation](https://docs.confluent.io/kafka-connect-hdfs3-source/current/index.html) |
@@ -90,4 +90,4 @@
 | neo4j-kafka-connect-neo4j | 6.0.1 | null | Neo4j, Inc. | 2026-10-19 | [documentation](https://neo4j.com/docs/kafka) |
 | snowflakeinc-snowflake-kafka-connector | 4.2.3 | Apache License, Version 2.0 | Snowflake Inc. | 2026-10-23 | [documentation](https://docs.snowflake.com/en/connectors/kafkahp/about) |
 | splunk-kafka-connect-splunk | 2.3.0 | Apache 2.0 | Splunk | null | [documentation](https://docs.confluent.io/current/connect/kafka-connect-splunk/splunk-sink) |
-| wepay-kafka-connect-bigquery | 2.5.13 | Apache License 2.0 | WePay | 2026-10-26 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
+| wepay-kafka-connect-bigquery | 2.5.14 | Apache License 2.0 | WePay | 2026-10-28 | [documentation](https://docs.confluent.io/kafka-connect-bigquery/current/index.html) |
