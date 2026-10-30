@@ -22,7 +22,7 @@
 | confluentinc-kafka-connect-azure-sql-dw | 1.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-01-30 | [documentation](https://docs.confluent.io/kafka-connect-azure-sql-dw/current/index.html) |
 | confluentinc-kafka-connect-cassandra | 2.0.22 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-22 | [documentation](https://docs.confluent.io/kafka-connect-cassandra/current/index.html) |
 | confluentinc-kafka-connect-data-diode | 1.2.9 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-02 | [documentation](https://docs.confluent.io/kafka-connect-data-diode/current/index.html) |
-| confluentinc-kafka-connect-databricks-delta-lake | 1.0.33 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-24 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
+| confluentinc-kafka-connect-databricks-delta-lake | 1.0.34 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-30 | [documentation](https://docs.confluent.io/kafka-connectors/databricks-delta-lake-sink/current/overview.html) |
 | confluentinc-kafka-connect-datadog-metrics | 2.0.18 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-18 | [documentation](https://docs.confluent.io/kafka-connect-datadog-metrics/current/index.html) |
 | confluentinc-kafka-connect-datagen | 0.7.3 | Apache License 2.0 | Confluent, Inc. | 2026-10-19 | [documentation](https://github.com/confluentinc/kafka-connect-datagen/blob/master/README.md) |
 | confluentinc-kafka-connect-elasticsearch | 16.0.1 | Confluent Community License | Confluent, Inc. | 2026-10-23 | [documentation](https://docs.confluent.io/kafka-connect-elasticsearch/current/index.html) |
@@ -73,7 +73,7 @@
 | confluentinc-kafka-connect-solace-source | 1.2.15 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-24 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-splunk-source | 2.0.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-19 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
 | confluentinc-kafka-connect-sqs | 2.1.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-23 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
-| confluentinc-kafka-connect-syslog | 1.5.18 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
+| confluentinc-kafka-connect-syslog | 1.5.19 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-08 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
 | confluentinc-kafka-connect-tibco-source | 1.2.15 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-24 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc | 2025-10-22 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
