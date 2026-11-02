@@ -46,7 +46,7 @@
 | confluentinc-kafka-connect-ibmmq-sink | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-08 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-ibmmq/sink) |
 | confluentinc-kafka-connect-influxdb | 1.2.12 | Confluent Software Evaluation License | Confluent, Inc. | 2026-02-05 | [documentation](https://docs.confluent.io/kafka-connect-influxdb/current/index.html) |
 | confluentinc-kafka-connect-jdbc | 10.9.9 | Confluent Community License | Confluent, Inc. | 2026-09-16 | [documentation](https://docs.confluent.io/kafka-connect-jdbc/current/) |
-| confluentinc-kafka-connect-jira | 1.3.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-08-24 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
+| confluentinc-kafka-connect-jira | 1.4.0 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-02 | [documentation](https://docs.confluent.io/kafka-connect-jira/current/index.html) |
 | confluentinc-kafka-connect-jms | 13.0.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-08 | [documentation](https://docs.confluent.io/kafka-connect-jms-source/current/index.html) |
 | confluentinc-kafka-connect-jms-sink | 2.2.3 | Confluent Software Evaluation License | Confluent, Inc. | 2026-09-08 | [documentation](https://docs.confluent.io/kafka-connect-jms-sink/current/index.html) |
 | confluentinc-kafka-connect-kinesis | 2.0.15 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-23 | [documentation](https://docs.confluent.io/kafka-connect-kinesis/current/index.html) |
@@ -83,7 +83,7 @@
 | debezium-debezium-connector-mysql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
 | debezium-debezium-connector-sqlserver | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/sqlserver/) |
-| jcustenborder-kafka-connect-redis | 0.0.13 | Confluent Software Evaluation License | Jeremy Custenborder | 2026-09-29 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
+| jcustenborder-kafka-connect-redis | 0.0.14 | Confluent Software Evaluation License | Jeremy Custenborder | 2026-11-02 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-redis/) |
 | jcustenborder-kafka-connect-spooldir | 2.0.66 | Apache License 2.0 | Jeremy Custenborder | 2024-12-09 | [documentation](https://docs.confluent.io/kafka-connect-spooldir/current/index.html) |
 | microsoftcorporation-kafka-connect-cosmos | 1.18.0 | MIT License | Microsoft Corporation | 2025-11-18 | [documentation](https://github.com/microsoft/kafka-connect-cosmosdb) |
 | mongodb-kafka-connect-mongodb | 3.1.2 | The Apache License, Version 2.0 | MongoDB | 2026-10-07 | [documentation](https://github.com/mongodb/mongo-kafka/blob/master/README.md) |
