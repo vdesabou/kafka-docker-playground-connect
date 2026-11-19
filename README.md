@@ -70,15 +70,15 @@
 | confluentinc-kafka-connect-sftp | 3.2.26 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-12 | [documentation](https://docs.confluent.io/kafka-connect-sftp/current/index.html) |
 | confluentinc-kafka-connect-snmp | 1.3.8 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-13 | [documentation](https://docs.confluent.io/kafka-connect-snmp/current/index.html) |
 | confluentinc-kafka-connect-solace-sink | 2.2.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-17 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/sink/index.html) |
-| confluentinc-kafka-connect-solace-source | 1.2.16 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-16 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
+| confluentinc-kafka-connect-solace-source | 1.2.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-19 | [documentation](https://docs.confluent.io/kafka-connect-solace/current/source/index.html) |
 | confluentinc-kafka-connect-splunk-source | 2.0.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-18 | [documentation](https://docs.confluent.io/kafka-connect-splunk-source/current/index.html) |
 | confluentinc-kafka-connect-sqs | 2.1.4 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-11 | [documentation](https://docs.confluent.io/kafka-connect-sqs/current/index.html) |
 | confluentinc-kafka-connect-syslog | 1.5.19 | Confluent Software Evaluation License | Confluent, Inc. | 2026-10-30 | [documentation](https://docs.confluent.io/current/connect/kafka-connect-syslog/index.html) |
 | confluentinc-kafka-connect-tibco-sink | 2.2.5 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-17 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/sink/index.html) |
-| confluentinc-kafka-connect-tibco-source | 1.2.16 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-16 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
+| confluentinc-kafka-connect-tibco-source | 1.2.17 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-19 | [documentation](https://docs.confluent.io/kafka-connect-tibco/current/source/index.html) |
 | confluentinc-kafka-connect-vertica | 1.3.3 | Confluent Software Evaluation License | Confluent, Inc | 2025-10-22 | [documentation](https://docs.confluent.io/kafka-connect-vertica/current/index.html) |
 | confluentinc-kafka-connect-zendesk | 1.3.13 | Confluent Software Evaluation License | Confluent, Inc. | 2026-11-13 | [documentation](https://docs.confluent.io/kafka-connect-zendesk/current/) |
-| couchbase-kafka-connect-couchbase | 4.3.8 | Apache License 2.0 | Couchbase, Inc. | 2026-09-15 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
+| couchbase-kafka-connect-couchbase | 4.3.9 | Apache License 2.0 | Couchbase, Inc. | 2026-11-18 | [documentation](https://docs.couchbase.com/kafka-connector/current/) |
 | debezium-debezium-connector-mongodb | 3.2.6-5 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mongodb/) |
 | debezium-debezium-connector-mysql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/mysql/) |
 | debezium-debezium-connector-postgresql | 3.2.6-4 | Apache 2.0 | Confluent | null | [documentation](http://debezium.io/docs/connectors/postgresql/) |
